@@ -9,8 +9,9 @@ layout: home
 ---
 <div style="font-family: 'Source Sans Pro', sans-serif; background: url('/2023/images/banner_no_text.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
-		<h2 class="blackpar_title" ><b>SUMAC</b>: The 5<sup>th</sup> workshop on the analySis, Understanding and proMotion of heritAge Contents<br>Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h2>
-		<h3 class="blackpar_title">29 Oct - 3 Nov 2023, Ottawa (Canada) <br> <b>Attendance Mode: TBA</b> </h3>
+		<h2 class="blackpar_title" ><b>SUMAC</b>: The 5<sup>th</sup> workshop on the analySis, Understanding and proMotion of heritAge Contents</h2><br> 
+		<i> <h3 class="blackpar_title"> Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h3> </i>
+		<h4 class="blackpar_title">29 Oct - 3 Nov 2023, Ottawa (Canada) <br> <b>Attendance Mode: TBA</b> </h4>
 			<!-- (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>

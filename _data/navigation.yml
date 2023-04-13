@@ -1,19 +1,19 @@
 - title: Home
-  url: /2023/index.html
+  url: /index.html
 - title: Overview
-  url: /2023/index.html#overview
+  url: /index.html#overview
 - title: Call for papers
-  url: /2023/index.html#call_for_papers
+  url: /index.html#call_for_papers
 - title: Organizers
-  url: /2023/index.html#organizers
+  url: /index.html#organizers
 - title: Speakers
-  url: /2023/index.html#speakers
+  url: /index.html#speakers
 - title: Schedule
-  url: /2023/index.html#schedule 
+  url: /index.html#schedule 
 - title: Technical committee
-  url: /2023/index.html#technical_committee 
+  url: /index.html#technical_committee 
 - title: Accepted papers
-  url: /2023/accepted_papers.html
+  url: /accepted_papers.html
 - title: Poster session
   url: https://app.gather.town/app/Hb8GGwi2XlLAbKzc/ENLSP2022
 - title: ENLSP2021

@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans Pro', sans-serif; background: url('/images/banner_no_text.png') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans Pro', sans-serif; background: url('/2023/images/banner_no_text.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
 		<h2 class="blackpar_title" ><b>SUMAC</b>: The 5<sup>th</sup> workshop on the analySis, Understanding and proMotion of heritAge Contents<br>Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h2>
 		<h3 class="blackpar_title">29 Oct - 3 Nov 2023, Ottawa (Canada) <br> <b>Attendance Mode: TBA</b> </h3>
@@ -160,7 +160,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 {% include organizers.html %}
 </p>
 
-<h2 class="blackpar_title" id="Organizers">Volunteers</h2>
+<!-- <h2 class="blackpar_title" id="Organizers">Volunteers</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso justify-content-center" style="margin-left:24%;">
 	  <img src="/images/khalil_bibi.png" alt="Khalil Bibi" class="img_card_perso">
@@ -186,7 +186,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 		</center>
 	  </div>
 	</div>
-</div>
+</div> -->
 
 
 <br><br>
@@ -202,12 +202,12 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/huawei_logo.png">
+			<img src="/2023/images/huawei_logo.png">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/noahs_ark_lab_logo.png" width="250px">
+			<img src="/2023/images/noahs_ark_lab_logo.png" width="250px">
 		</center>
 	</div>
 </div>
@@ -216,12 +216,12 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/BASF_logo.png" width="250px">
+			<img src="/2023/images/BASF_logo.png" width="250px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/rbc_logo.svg" width="250px">
+			<img src="/2023/images/rbc_logo.svg" width="250px">
 		</center>
 	</div>
 </div>

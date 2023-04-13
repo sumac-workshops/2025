@@ -1,11 +1,9 @@
-title: ENLSP NeurIPS Workshop 2022
+title: SUMAC Workshop 2023
 author:
-  name: ENLSP NeurIPS Workshop 2022
-  email: neurips.enlsp.2022@gmail.com
+  name: SUMAC Workshop 2023
+  email: ronak.kosti@fau.de
 description: > # this means to ignore newlines until "show_excerpts:"
-  ENLSP highlights some fundamental problems in NLP and speech 
-  processing related to efficiency of the models, training and 
-  inference for the general ML and DL communities.
+  5th workshop on the analySis, Understanding and proMotion of heritAge Contents
 
 # Customized links for main menu
 header_menu:

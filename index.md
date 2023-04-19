@@ -148,12 +148,12 @@ TBA
 	</div>
 	<div class="col">
 		<center>
-			<a href="https://www.timemachine.eu/"> <img src="/2023/images/TM-logo.png" width="300px"> </a> 
+			<a href="https://www.timemachine.eu/"> <img src="/2023/images/TM-logo.png" width="320px"> </a> 
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<a href="https://english.zufe.edu.cn/"> <img src="/2023/images/logo_zhejiang2.png" width="100px"> </a> 
+			<a href="https://english.zufe.edu.cn/"> <img src="/2023/images/logo_zhejiang2.png" width="150px"> </a> 
 		</center>
 	</div>
 </div>

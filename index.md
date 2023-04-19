@@ -130,29 +130,33 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <h2 class="blackpar_title">Important Dates:</h2>
 <p>
 <ul>
-	<li>Submission Deadline: <strike> September 25, 2022 AOE </strike> </li>
-	<li>Acceptance Notification: <strike> October 20, 2022 AOE </strike> </li>
-	<li>Camera-Ready Submission: <strike> November 1, 2022 AOE </strike> </li>
-	<li>Workshop Date: <b>Friday December 2, 2022</b> (in-person and virtual)</li>
+	<li>Submission Deadline: 5 July, 2023 AOE </li>
+	<li>Acceptance Notification: 30 July, 2023 AOE </li>
+	<!-- <li>Acceptance Notification: 30 July, 2023 AOE </strike> </li>	 -->
+	<li>Camera-Ready Submission: 6 August, 2023 AOE </li>
+	<li>Workshop Date: <b>29 October - 3 November, 2023</b> (Attendance model: TBA)</li>
 </ul>
 </p>
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Confirmed Speakers</h2>
 <p>
-{% include speakers.html %}
+TBA
+<!-- {% include speakers.html %} -->
 </p>
 
 
-<h2 class="blackpar_title" id="speakers">Industrial Panelists</h2>
+<!-- <h2 class="blackpar_title" id="speakers">Industrial Panelists</h2>
 <p>
-{% include panelists.html %}
-</p>
+TBA
+<!-- {% include panelists.html %} -->
+</p> -->
 
 <!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (New Orleans Time Zone)</h2>
+<h2 class="blackpar_title" id="schedule">Schedule (TBA)</h2>
 <p>
-{% include schedule.html %}
+TBA
+<!-- {% include schedule.html %} -->
 </p>
 
 <!-- Organizers -->
@@ -193,13 +197,14 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <br><br>
 
 <!-- Technical Committee -->
-<h2 class="blackpar_title" id="technical_committee">Technical Committee</h2>
+<h2 class="blackpar_title" id="technical_committee">Program Committee</h2>
 <p>
-{% include technical_committee.html %}
+TBA
+<!-- {% include program_committee.html %} -->
 </p>
 <br><br>
 
-<h2 class="blackpar_title">Platinium Sponsor</h2>
+<h2 class="blackpar_title">Sponsors</h2>
 <div class="row">
 	<div class="col">
 		<center>
@@ -226,3 +231,9 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 		</center>
 	</div>
 </div>
+
+<!-- Technical Committee -->
+<h2 class="blackpar_title" id="previous_editions">Previous Editions</h2>
+<p>
+{% include previous_editions.html %}
+</p>

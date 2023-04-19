@@ -73,101 +73,15 @@ The objective of this workshop is to present and discuss the latest and most sig
 	<li>Camera-Ready: August 6, 2023</li>
 	<li>Workshop date: TBA, during the main conference</li>
 </ul>
+<br>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
 <b>Submission format</b> All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work in progress. One submission format is accepted: full paper, which must follow the formatting guidelines of the main conference ACM MM 2023. Full papers should be from 6 to 8 pages (plus 2 additional pages for the references), encoded as PDF and using the ACM Article Template. For author guidelines and instructions, please visit https://www.acmmm2023.org/instructions/.
 <br>
 
 <b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
-
-<!-- 
-We would like to share some fundamental challenges on improving efficiency of pre- trained models and encourage the NeurIPS community to submit their solutions, ideas, and ongoing work concerning data, model, training, and inference efficiency for NLP and speech processing. The scope of this workshop includes, but not limited to, the following topics:
-
-<b>Efficient Pre-Training</b> Pre-training is a very expensive process. Even a small modification to the configuration of the models requires the user to redo pre-training.
-<br>
-<ul>
-	<li>Accelerating the pre-training process</li>
-	<li>Continual/Life-long pre-training and adapting pre-trained models to a new domain</li>
-	<li>Efficient initialization and hyper-parameter tuning (HPT)</li>
-	<li>Better pre-training self-supervised objectives</li>
-	<li>Multi-domain pre-training</li>
-	<li>Data vs. Scale of pre-trained models</li>
-	<li>Pre-training Multimodal (e.g., text–speech) models</li>
-	<li>New efficient architectures for pre-trained models</li>
-</ul>
-
-
-<b>Efficient Fine-tuning</b> Fine-tuning large pre-trained models on downstream tasks can be challenging because pre-trained models are very over-parameterized.
-<br>
-<ul>
-	<li>Parameter-efficient tuning solutions to tune only a portion of the entire network (e.g. adapters)</li>
-	<li>Efficient prompt-based fine-tuning</li>
-	<li>Accelerating the fine-tuning process (e.g. optimizer, and layer-skipping)</li>
-	<li>Efficient federated learning for NLP: reduce the communication costs, tackling heterogeneous data, heterogeneous models.</li>
-</ul>
-
-
-<b>Data Efficiency</b> Pre-trained models rely on a huge amount of unlabeled data which makes the training very sample inefficient.
-<br>
-<ul>
-	<li>Sample efficient training, training with less data, few-shot and zero-shot learning</li>
-	<li>Sample efficient data-augmentation, identifying which training samples should be augmented</li>
-	<li>Data compression, data distillation</li>
-	<li>Data selection, how to improve the quality of pre-training data</li>
-</ul>
-
-<b>Inference Efficiency</b> How can we reduce the inference time or memory footprint of a trained model for a particular task?
-<br>
-<ul>
-	<li>Neural model compression techniques such as quantization, pruning, layer decomposition and knowledge distillation (KD) for NLP and Speech</li>
-	<li>Impact of different compression techniques on the inductive biases learned by the original models</li>
-	<li>Combined compression techniques for more efficient NLP and speech models</li>
-	<li>Improving efficiency of KD by removing the teacher</li>
-	<li>Extreme model compression (high compression ratio) for very large pre-trained language models</li>
-</ul>
-
-<b>Special Track) Efficient Graph Learning for NLP</b>
-<br>
-<ul>
-	<li>Automatically transforming natural language into graph-structured data</li>
-	<li>Representation learning on multi-relational or heterogeneous graphs</li>
-	<li>Learning the mapping between complex data structures, like Graph2Seq, Graph2Tree, Graph2Graph</li>
-	<li>Graph learning with pre-trained language models</li>
-</ul>
-
-<b>Other Efficient Applications</b> Pre-trained models are used in many tasks in NLP that efficiency can be their concern.
-<br>
-<ul>
-	<li>Efficient Dense Retrieval</li>
-	<li>Large language model as a service</li>
-	<li>Training models on device</li>
-	<li>Incorporating external knowledge into pre-trained models</li>
-	<li>Unifying different pre-training models</li>
-</ul>
-
 <br>
 
-<h2 class="blackpar_title">Submission Instructions</h2>
-<p>
-You are invited to submit your papers in our CMT submission <a href="https://cmt3.research.microsoft.com/ENLSP2022">portal</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 4 pages, strictly following the NeurIPS template style (which can be found <a href="https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles">here</a>). 
-<br /><br />
-Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. According to the guideline of the NeurIPS workshops, already published papers are not encouraged for submission, but you are allowed to submit your ArXiv papers or the ones which are under submission. Moreover, a work that is presented at the main NeurIPS conference should not appear in a workshop. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the <b>Best Paper</b> and the <b>Best Poster</b> Award to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Also, we will give one <b>outstading paper certification</b> for our special track of efficient graph learning for NLP.Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
- 
-
-</p>
-
-<br>
-
-<h2 class="blackpar_title">Important Dates:</h2>
-<p>
-<ul>
-	<li>Submission Deadline: 5 July, 2023 AOE </li>
-	<li>Acceptance Notification: 30 July, 2023 AOE </li>
-	<li>Acceptance Notification: 30 July, 2023 AOE </strike> </li>	
-	<li>Camera-Ready Submission: 6 August, 2023 AOE </li>
-	<li>Workshop Date: <b>29 October - 3 November, 2023</b> (Attendance model: TBA)</li>
-</ul>
-</p> -->
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Confirmed Speakers</h2>
@@ -176,12 +90,6 @@ TBA
 <!-- {% include speakers.html %} -->
 </p>
 
-
-<!-- <h2 class="blackpar_title" id="speakers">Industrial Panelists</h2>
-<p>
-TBA
-<!-- {% include panelists.html %}
-</p> -->
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (TBA)</h2>
@@ -222,7 +130,7 @@ TBA
 </div> -->
 
 
-<br><br>
+<br>
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
@@ -241,12 +149,12 @@ TBA
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/TM-logo.png" width="250px">
+			<img src="/2023/images/TM-logo.png">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/logo_zhejiang.png" width="250px">
+			<img src="/2023/images/logo_zhejiang.png">
 		</center>
 	</div>
 </div>

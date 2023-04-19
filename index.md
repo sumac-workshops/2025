@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans Pro', sans-serif; background: url('/2023/images/banner_no_text.png') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans Pro', sans-serif; background: url('/2023/images/maple.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
 		<h2 class="blackpar_title" ><b>SUMAC</b>: The 5<sup>th</sup> workshop on the analySis, Understanding and proMotion of heritAge Contents</h2><br> 
 		<i> <h3 class="blackpar_title"> Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h3> </i>
@@ -71,7 +71,7 @@ The objective of this workshop is to present and discuss the latest and most sig
 	<li>Paper submission: July 5, 2023 (AoE)</li>
 	<li>Author acceptance notification: July 30, 2023</li>
 	<li>Camera-Ready: August 6, 2023</li>
-	<li>Workshop date: TBA, during the main conference</li>
+	<li>Workshop date: 29 October - 3 November, 2023</li>
 </ul>
 <br>
 
@@ -143,17 +143,17 @@ TBA
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/2023/images/ign.png" width="500px">
+			<img src="/2023/images/ign.png" width="250px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/TM-logo.png" width="500px">
+			<img src="/2023/images/TM-logo.png" width="300px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/logo_zhejiang2.png" width="500px">
+			<img src="/2023/images/logo_zhejiang2.png" width="250px">
 		</center>
 	</div>
 </div>

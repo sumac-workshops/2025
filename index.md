@@ -93,7 +93,6 @@ TBA
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (TBA)</h2>
-<!-- <p> {% include schedule.html %} </p> -->
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
@@ -144,17 +143,17 @@ TBA
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/2023/images/ign.png" width="250px">
+			<img src="/2023/images/ign.png" width="500px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/TM-logo.png" width="250px">
+			<img src="/2023/images/TM-logo.png" width="500px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/logo_zhejiang.png" width="250px">
+			<img src="/2023/images/logo_zhejiang2.png" width="500px">
 		</center>
 	</div>
 </div>

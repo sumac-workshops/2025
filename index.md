@@ -144,17 +144,17 @@ TBA
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/2023/images/ign.png">
+			<img src="/2023/images/ign.png" width="250px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/TM-logo.png">
+			<img src="/2023/images/TM-logo.png" width="250px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/logo_zhejiang.png">
+			<img src="/2023/images/logo_zhejiang.png" width="250px">
 		</center>
 	</div>
 </div>

@@ -1,9 +1,9 @@
 title: SUMAC Workshops 2023
 author:
-  name: SUMAC Workshop 2023
-  email: https://sumac-workshops.github.io/2023/index.html#organizers
+  name: Template Motivation
+  url: https://neurips2022-enlsp.github.io/
 description: > # this means to ignore newlines until "show_excerpts:"
-  SUMAC - ACM Workshop on the analySis, Understanding and proMotion of heritAge Contents
+  ACM Workshop on the analySis, Understanding and proMotion of heritAge Contents
 
 # Customized links for main menu
 header_menu:

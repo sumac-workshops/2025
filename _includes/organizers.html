@@ -6,13 +6,15 @@
 	{% if mod == 0 %}
 		{% for organizer in row.organizers %}
 			<div class="card_perso column_perso">
-			  <img src="/2023/images/{{ organizer.photo }}" alt="{{ organizer.url }}" class="img_card_perso">
+			  <img src="/2023/images/{{ organizer.photo }}" alt="{{ organizer.name }}" class="img_card_perso">
 			  <div class="container_perso" >
 				<center>
 				<h6>
 					<b>{{ organizer.name }}</b>
 					<br>
 					{{ organizer.affiliation }}
+					<br>
+					<a href="{{organizer.url}}"> Website </a>
 				</h6>
 				</center>
 			  </div>
@@ -26,13 +28,15 @@
 			{% assign style_val = '' %}
 			{% endif %}
 			<div class="card_perso column_perso" {{ style_val }}>
-			  <img src="/2023/images/{{ organizer.photo }}" alt="{{ organizer.url }}" class="img_card_perso">
+			  <img src="/2023/images/{{ organizer.photo }}" alt="{{ organizer.name }}" class="img_card_perso">
 			  <div class="container_perso" >
 				<center>
 				<h6>
 					<b>{{ organizer.name }}</b>
 					<br>
 					{{ organizer.affiliation }}
+					<br>
+					<a href="{{organizer.url}}"> Website </a>
 				</h6>
 				</center>
 			  </div>

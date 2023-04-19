@@ -17,7 +17,7 @@ layout: home
 </div>
 <br>
 <p>
-The second version of the Efficient Natural Language and Speech Processing (ENLSP-II) workshop focuses on fundamental and challenging problems to make natural language and speech processing (especially pre-trained models) more efficient in terms of <b>Data, Model, Training, and Inference</b>. The workshop program offers an interactive platform for gathering different experts and talents from academia and industry through invited talks, panel discussion, paper submissions, reviews, interactive posters, oral presentations and a mentorship program. This will be a unique opportunity to address the efficiency issues of current models, build connections, exchange ideas and brainstorm solutions, and foster future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, optimization, theory and NLP & Speech applications.
+The fifth version of the SUMAC (analySis, Understanding and proMotion of heritAge Contents) workshop, like its predecessors, focuses on analyzing, processing and valorizing all types of data related to cultural heritage, including tangible and intangible heritage. As stated by UNESCO, cultural heritage provides societies with a wealth of resources inherited from the past, created in the present for the benefit of future generations. 
 </p>
 
 <br>
@@ -42,14 +42,45 @@ The second version of the Efficient Natural Language and Speech Processing (ENLS
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <p>
-Pre-training a general model using self-supervised learning on huge amount of data and then fine-tuning that model on a specific task has become a generic paradigm in solving many natural language and speech processing tasks. Since then, we have had different types of pre-trained models (e.g. encoder-only such as BERT, decoder-only such as GPT, encoder-decoder such as T5) in very diverse range of scales (from millions to
-more than 500 billion parameters) for different tasks.
-<br><br>
-There has been a common practice in the literature to increase the number of parameters of these pre-trained models to improve their performance or their zero/few-shot abilities. Despite the great success of these pre-trained models, it is evident that most of them are largely over-parameterized and their efficiency is under question. Training or deploying these models on devices or even cloud services with limited memory and computational power can be very expensive and challenging. For example, Megatron-Turing with 530B parameters has shown state-of-the-art results in many NLP tasks, but at the cost of using 560 DGX A100 nodes (more than 4000 NVIDIA A100) for training and using more than 300B tokens data. Moreover, delivering such huge models as a service to different clients will require different copies of the model for different tasks. Even fine-tuning the entire large model over a small labeled dataset can lead to overfitting. Therefore, it is of vital importance to invest on future of pre-trained models by enhancing their efficiency in terms of data, modeling, training and inference from different perspectives highlighted in this workshop.
+The digitisation of large quantities of analogue data and the massive production of born-digital documents for many years now provide us with large volumes of varied multimedia data (images, maps, text, video, 3D objects, multi-sensor data, etc.), an important feature of which is that they are cross-domain. ``Cross-domain'' reflects the fact that these data may have been acquired in very different conditions: different acquisition systems, times and points of view (e.g. a 1962 postcard from the Arc de Triomphe vs. a recent street-view acquisition by mobile mapping of the same monument). These data represent an extremely rich heritage that can be exploited in a wide variety of fields, from Social Sciences and Humanities to land use and territorial policies, including smart city, urban planning, smart tourism and culture, creative media and entertainment. In terms of research in computer science and artificial intelligence, they address challenging problems related to the diversity, specificity and volume of the media, the variety of content descriptors (potentially including the time dimension), the veracity of the data, and the different user needs with respect to engaging with this rich material and the extraction of value out of the data. These challenges are reflected in various research topics such as multimodal and mixed media search, automatic content analysis, multimedia linking and recommendation, and big data analysis and visualisation where scientific bottlenecks may be exacerbated by the time dimension -- which also provides topics of interest such as multimodal time series analysis.
 </p>
 <br>
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
+The objective of this workshop is to present and discuss the latest and most significant trends in the analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage, with the emphasis on enabling access to the big data of the past. We welcome research contributions for the following (but not limited to) topics:
+
+<ul>
+	<li>Multimedia and cross-domain data search, interlinking and recommendation</li>
+	<li>Dating and spatialization of historical data</li>
+	<li>Mixed media data access and indexing</li>
+	<li>Multi-modal deep learning</li>
+	<li>Deep learning in adverse conditions (transfer learning, learning with side information, etc.)</li>
+	<li>Multi-modal time series analysis, evolution modelling </li>
+	<li>Multi-modal \& multi-temporal data rendering</li>
+	<li>Heritage - Building Information Modelling, Art Virtualisation</li>
+	<li>HCI / Interfaces for large-scale datasets</li>
+	<li>Smart digitisation of massive quantities of data</li>
+	<li>Bench-marking, Open Data Movement</li>
+	<li>Generative modelling of cultural heritage</li>
+	<li>Machine Learning for Cultural Heritage</li>
+</ul>
+<br>
+
+<h2 class="blackpar_title" id="imp_dates">Important dates</h2>
+<ul> 
+	<li>Paper submission: July 5, 2023 (AoE)</li>
+	<li>Author acceptance notification: July 30, 2023</li>
+	<li>Camera-Ready: August 6, 2023</li>
+	<li>Workshop date: TBA, during the main conference</li>
+</ul>
+
+<h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
+<br>
+<b>Submission format</b> All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work in progress. One submission format is accepted: full paper, which must follow the formatting guidelines of the main conference ACM MM 2023. Full papers should be from 6 to 8 pages (plus 2 additional pages for the references), encoded as PDF and using the ACM Article Template. For author guidelines and instructions, please visit https://www.acmmm2023.org/instructions/.
+<br>
+<b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
+
+<!-- 
 We would like to share some fundamental challenges on improving efficiency of pre- trained models and encourage the NeurIPS community to submit their solutions, ideas, and ongoing work concerning data, model, training, and inference efficiency for NLP and speech processing. The scope of this workshop includes, but not limited to, the following topics:
 
 <b>Efficient Pre-Training</b> Pre-training is a very expensive process. Even a small modification to the configuration of the models requires the user to redo pre-training.
@@ -132,11 +163,11 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <ul>
 	<li>Submission Deadline: 5 July, 2023 AOE </li>
 	<li>Acceptance Notification: 30 July, 2023 AOE </li>
-	<!-- <li>Acceptance Notification: 30 July, 2023 AOE </strike> </li>	 -->
+	<li>Acceptance Notification: 30 July, 2023 AOE </strike> </li>	
 	<li>Camera-Ready Submission: 6 August, 2023 AOE </li>
 	<li>Workshop Date: <b>29 October - 3 November, 2023</b> (Attendance model: TBA)</li>
 </ul>
-</p>
+</p> -->
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Confirmed Speakers</h2>
@@ -149,15 +180,14 @@ TBA
 <!-- <h2 class="blackpar_title" id="speakers">Industrial Panelists</h2>
 <p>
 TBA
-<!-- {% include panelists.html %} -->
+<!-- {% include panelists.html %}
 </p> -->
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (TBA)</h2>
-<p>
-TBA
-<!-- {% include schedule.html %} -->
-</p>
+<!-- <p>
+{% include schedule.html %}
+</p> -->
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
@@ -208,17 +238,22 @@ TBA
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/2023/images/huawei_logo.png">
+			<img src="/2023/images/ign.png">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/noahs_ark_lab_logo.png" width="250px">
+			<img src="/2023/images/TM-logo.png" width="250px">
+		</center>
+	</div>
+	<div class="col">
+		<center>
+			<img src="/2023/images/logo_zhejiang.png" width="250px">
 		</center>
 	</div>
 </div>
 
-<h2 class="blackpar_title">Gold Sponsor</h2>
+<!-- <h2 class="blackpar_title">Gold Sponsor</h2>
 <div class="row">
 	<div class="col">
 		<center>
@@ -230,7 +265,7 @@ TBA
 			<img src="/2023/images/rbc_logo.svg" width="250px">
 		</center>
 	</div>
-</div>
+</div> -->
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="previous_editions">Previous Editions</h2>

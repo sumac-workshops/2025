@@ -197,7 +197,7 @@ TBA
 <br><br>
 
 <!-- Technical Committee -->
-<h2 class="blackpar_title" id="technical_committee">Program Committee</h2>
+<h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <p>
 TBA
 <!-- {% include program_committee.html %} -->

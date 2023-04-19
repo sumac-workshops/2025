@@ -143,17 +143,17 @@ TBA
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/2023/images/ign.png" width="250px">
+			<a href="https://ign.fr/"> <img src="/2023/images/ign.png" width="250px"> </a> 
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/TM-logo.png" width="300px">
+			<a href="https://www.timemachine.eu/"> <img src="/2023/images/TM-logo.png" width="300px"> </a> 
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/logo_zhejiang2.png" width="250px">
+			<a href="https://english.zufe.edu.cn/"> <img src="/2023/images/logo_zhejiang2.png" width="100px"> </a> 
 		</center>
 	</div>
 </div>

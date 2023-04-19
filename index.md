@@ -75,9 +75,9 @@ The objective of this workshop is to present and discuss the latest and most sig
 </ul>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
-<br>
 <b>Submission format</b> All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work in progress. One submission format is accepted: full paper, which must follow the formatting guidelines of the main conference ACM MM 2023. Full papers should be from 6 to 8 pages (plus 2 additional pages for the references), encoded as PDF and using the ACM Article Template. For author guidelines and instructions, please visit https://www.acmmm2023.org/instructions/.
 <br>
+
 <b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 
 <!-- 
@@ -185,9 +185,7 @@ TBA
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (TBA)</h2>
-<!-- <p>
-{% include schedule.html %}
-</p> -->
+<!-- <p> {% include schedule.html %} </p> -->
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>

@@ -55,7 +55,7 @@ The fifth version of the SUMAC (analySis, Understanding and proMotion of heritAg
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p>The objective of this workshop is to present and discuss the latest and most significant trends in the analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage, with the emphasis on enabling access to the big data of the past. We welcome research contributions for the following (but not limited to) topics:</p>
+<p> The ambition of SUMAC is to bring together researchers and practitioners from different disciplines to share ideas and methods on current trends in the analysis, understanding and promotion of heritage contents. These challenges are reflected in the corresponding sub-fields of machine learning, signal processing, multi-modal techniques and human-machine interaction. We welcome research contributions for the following (but not limited to) topics: </p>
 
 <ul>
 	<li> Information retrieval for multimedia heritage</li>
@@ -81,7 +81,7 @@ The fifth version of the SUMAC (analySis, Understanding and proMotion of heritAg
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul> 
-	<li>Paper submission: July 5, 2023 (AoE)</li>
+	<li>Paper submission: <b>July 5, 2023 (AoE)</b></li>
 	<li>Author acceptance notification: July 30, 2023</li>
 	<li>Camera-Ready: August 6, 2023</li>
 	<li>Workshop date: 29 October - 3 November, 2023</li>

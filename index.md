@@ -7,11 +7,12 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans Pro', sans-serif; background: url('/2023/images/maple.png') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: url('/2023/images/maple.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
-		<h2 class="blackpar_title" ><b>SUMAC</b>: The 5<sup>th</sup> workshop on the analySis, Understanding and proMotion of heritAge Contents</h2><br> 
-		<i> <h3 class="blackpar_title"> Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h3> </i>
-		<h4 class="blackpar_title">29 Oct - 3 Nov 2023, Ottawa (Canada) <br> <b>Attendance Mode: TBA</b> </h4>
+		<h2 class="blackpar_title">SUMAC</h2>
+		<h3 class="blackpar_title" style="font-family: Source Sans Pro;"> 5<sup>th</sup> workshop on the analy<u>S</u>is, <u>U</u>nderstanding and pro<u>M</u>otion of herit<u>A</u>ge <u>C</u>ontents</h3>
+		<h4 class="blackpar_title" style="font-family: Source Sans Pro;"> Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h4>
+		<h4 class="blackpar_title" style="font-family: Source Sans Pro;">A workshop in conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> 29 Oct - 3 Nov 2023, Ottawa (Canada) <br> <u>Attendance Mode: TBA</u> </h4>
 			<!-- (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
@@ -39,34 +40,46 @@ The fifth version of the SUMAC (analySis, Understanding and proMotion of heritAg
 
 <br>
 -->
+<h2 class="blackpar_title" id="bews">News and Updates</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+
+</p>
+
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
-<p>
-The digitisation of large quantities of analogue data and the massive production of born-digital documents for many years now provide us with large volumes of varied multimedia data (images, maps, text, video, 3D objects, multi-sensor data, etc.), an important feature of which is that they are cross-domain. ``Cross-domain'' reflects the fact that these data may have been acquired in very different conditions: different acquisition systems, times and points of view (e.g. a 1962 postcard from the Arc de Triomphe vs. a recent street-view acquisition by mobile mapping of the same monument). These data represent an extremely rich heritage that can be exploited in a wide variety of fields, from Social Sciences and Humanities to land use and territorial policies, including smart city, urban planning, smart tourism and culture, creative media and entertainment. In terms of research in computer science and artificial intelligence, they address challenging problems related to the diversity, specificity and volume of the media, the variety of content descriptors (potentially including the time dimension), the veracity of the data, and the different user needs with respect to engaging with this rich material and the extraction of value out of the data. These challenges are reflected in various research topics such as multimodal and mixed media search, automatic content analysis, multimedia linking and recommendation, and big data analysis and visualisation where scientific bottlenecks may be exacerbated by the time dimension -- which also provides topics of interest such as multimodal time series analysis.
-</p>
+<hr  style="color: rgb(212, 110, 0);">
+<p> Digital heritage data acquired are naturally massive and address a large diversity of modalities (iconography, text, structured referentials, image, video, 3D, music, sensor data). Their processing and promotion put into light several scientific challenges as well as various new use cases that are of topical interest today for the ACM Multimedia community, both for academics and industries. Like in the previous editions, we will strive to value the sharing of knowledge, algorithms and experiments; and also open source software and open data, by encouraging the submission of articles that promote this sharing policy. </p>
+<p> Abundant heritage data is available in the most recent years. Older data, that can be called the big data of the past, are mostly locked -- they currently remain largely “hidden” from the public, in galleries, libraries, archives, museums or data producers' infrastructures. Processing heritage data to increase their visibility will act as a game changer and contribute to a large panel of communities, by enabling an outstanding pool of inter-operable data, not only as a service to citizens but also to public or private actors, by challenging the research methods at the crossing of computer science, artificial intelligence and digital humanities. </p>
 <br>
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
-The objective of this workshop is to present and discuss the latest and most significant trends in the analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage, with the emphasis on enabling access to the big data of the past. We welcome research contributions for the following (but not limited to) topics:
+<hr  style="color: rgb(212, 110, 0);">
+<p>The objective of this workshop is to present and discuss the latest and most significant trends in the analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage, with the emphasis on enabling access to the big data of the past. We welcome research contributions for the following (but not limited to) topics:</p>
 
 <ul>
-	<li>Multimedia and cross-domain data search, interlinking and recommendation</li>
-	<li>Dating and spatialization of historical data</li>
-	<li>Mixed media data access and indexing</li>
-	<li>Multi-modal deep learning</li>
-	<li>Deep learning in adverse conditions (transfer learning, learning with side information, etc.)</li>
-	<li>Multi-modal time series analysis, evolution modelling </li>
-	<li>Multi-modal \& multi-temporal data rendering</li>
-	<li>Heritage - Building Information Modelling, Art Virtualisation</li>
-	<li>HCI / Interfaces for large-scale datasets</li>
-	<li>Smart digitisation of massive quantities of data</li>
-	<li>Bench-marking, Open Data Movement</li>
-	<li>Generative modelling of cultural heritage</li>
-	<li>Machine Learning for Cultural Heritage</li>
+	<li> Information retrieval for multimedia heritage</li>
+	<li>Automated archaeology and heritage data processing</li>
+	<li>Multi-modal deep learning and time series analysis for heritage data</li>
+	<li> Heritage modeling, visualization, and virtualization</li>
+	<li> Smart digitization and reconstruction of heritage data</li>
+	<li> Open heritage data and bench-marking</li>
+</ul>
+
+<p>The scope of targeted applications is extensive and includes:</p>
+<ul> 
+	<li>Analysis, archaeometry of artifacts</li>
+	<li> Diagnosis and monitoring for restoration and preventive conservation</li>
+	<li> Geosciences / Geomatics for cultural heritage</li>
+	<li> Education</li>
+	<li> Smart and sustainable tourism </li>
+	<li> Urban planning</li>
+	<li> Digital Twins</li>
 </ul>
 <br>
 
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
+<hr  style="color: rgb(212, 110, 0);">
 <ul> 
 	<li>Paper submission: July 5, 2023 (AoE)</li>
 	<li>Author acceptance notification: July 30, 2023</li>
@@ -76,26 +89,30 @@ The objective of this workshop is to present and discuss the latest and most sig
 <br>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
-<b>Submission format</b> All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work in progress. One submission format is accepted: full paper, which must follow the formatting guidelines of the main conference ACM MM 2023. Full papers should be from 6 to 8 pages (plus 2 additional pages for the references), encoded as PDF and using the ACM Article Template. For author guidelines and instructions, please visit https://www.acmmm2023.org/instructions/.
+<hr  style="color: rgb(212, 110, 0);">
+<p><b>Submission format</b> All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work in progress. One submission format is accepted: full paper, which must follow the formatting guidelines of the main conference ACM MM 2023. Full papers should be from 6 to 8 pages (plus 2 additional pages for the references), encoded as PDF and using the ACM Article Template. For author guidelines and instructions, please visit https://www.acmmm2023.org/instructions/.
+</p>
 <br>
 
-<b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
-<br>
+<p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
+</p><br>
 
 
 <!--Confirmed Speakers-->
-<h2 class="blackpar_title" id="speakers">Confirmed Speakers</h2>
-<p>
-TBA
+<h2 class="blackpar_title" id="speakers">Confirmed Speakers (TBA)</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<!-- <p> -->
+<!-- TBA -->
 <!-- {% include speakers.html %} -->
-</p>
+<!-- </p> -->
 
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (TBA)</h2>
-
+<hr  style="color: rgb(212, 110, 0);">
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
+<hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include organizers.html %}
 </p>
@@ -132,14 +149,16 @@ TBA
 <br>
 
 <!-- Technical Committee -->
-<h2 class="blackpar_title" id="program_committee">Program Committee</h2>
-<p>
-TBA
+<h2 class="blackpar_title" id="program_committee">Program Committee (TBA)</h2>
+<hr>
+<!-- <p> -->
+<!-- TBA -->
 <!-- {% include program_committee.html %} -->
-</p>
-<br><br>
+<!-- </p> -->
+<br>
 
 <h2 class="blackpar_title">Sponsors</h2>
+<hr>
 <div class="row">
 	<div class="col">
 		<center>
@@ -157,23 +176,25 @@ TBA
 		</center>
 	</div>
 </div>
+<br>
 
 <!-- <h2 class="blackpar_title">Gold Sponsor</h2>
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/2023/images/BASF_logo.png" width="250px">
+			<img src="images/BASF_logo.png" width="250px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/2023/images/rbc_logo.svg" width="250px">
+			<img src="images/rbc_logo.svg" width="250px">
 		</center>
 	</div>
 </div> -->
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="previous_editions">Previous Editions</h2>
+<hr>
 <p>
 {% include previous_editions.html %}
 </p>

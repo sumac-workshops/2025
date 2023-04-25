@@ -7,12 +7,12 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: url('/2023/images/maple.png') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: url('images/maple.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
-		<h2 class="blackpar_title">SUMAC</h2>
-		<h3 class="blackpar_title" style="font-family: Source Sans Pro;"> 5<sup>th</sup> workshop on the analy<u>S</u>is, <u>U</u>nderstanding and pro<u>M</u>otion of herit<u>A</u>ge <u>C</u>ontents</h3>
-		<h4 class="blackpar_title" style="font-family: Source Sans Pro;"> Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h4>
-		<h4 class="blackpar_title" style="font-family: Source Sans Pro;">A workshop in conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> 29 Oct - 3 Nov 2023, Ottawa (Canada) <br> Attendance Mode: <u>TBA</u> </h4>
+		<h2 class="blackpar_title">SUMAC 2023</h2>
+		<h3 class="blackpar_title"> 5<sup>th</sup> workshop on the analy<a style="color: rgb(193, 0, 0)">s</a>is, <a style="color: rgb(193, 0, 0)">u</a>nderstanding and pro<a style="color: rgb(193, 0, 0)">m</a>otion of herit<a style="color: rgb(193, 0, 0)">a</a>ge <a style="color: rgb(193, 0, 0)">c</a>ontents</h3>
+		<h4 class="blackpar_title" style="font-family: sans-serif; font-weight: 500;"> Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h4>
+		<h4 class="blackpar_title" style="font-family: sans-serif; font-weight: 400;">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> 29 Oct - 3 Nov, 2023, Ottawa (Canada) <br> Attendance Mode: <u>TBA</u> </h4>
 			<!-- (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>

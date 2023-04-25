@@ -19,7 +19,6 @@ layout: home
 <br>
 
 
-
 <!--
 <div class="alert alert-danger" role="alert">
   <h4>Mentoring sessions announcement</h4>

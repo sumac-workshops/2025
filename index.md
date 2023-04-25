@@ -172,7 +172,7 @@ The fifth version of the SUMAC (analySis, Understanding and proMotion of heritAg
 	</div>
 	<div class="col">
 		<center>
-			<a href="https://english.zufe.edu.cn/"> <img src="/2023/images/logo_zhejiang2.png" width="150px"> </a> 
+			<a href="http://www.zfc.edu.cn/"> <img src="/2023/images/logo_zfc.png" width="150px"> </a> 
 		</center>
 	</div>
 </div>

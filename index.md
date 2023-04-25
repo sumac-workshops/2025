@@ -11,15 +11,14 @@ layout: home
 	<center>
 		<h2 class="blackpar_title">SUMAC 2023</h2>
 		<h3 class="blackpar_title"> 5<sup>th</sup> workshop on the analy<a style="color: rgb(193, 0, 0)">s</a>is, <a style="color: rgb(193, 0, 0)">u</a>nderstanding and pro<a style="color: rgb(193, 0, 0)">m</a>otion of herit<a style="color: rgb(193, 0, 0)">a</a>ge <a style="color: rgb(193, 0, 0)">c</a>ontents</h3>
-		<h4 class="blackpar_title"> Advances in machine learning, signal processing, multimodal techniques and human-machine interaction</h4>
-		<h4 class="blackpar_title">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> October 29 -- November 3, 2023, Ottawa (Canada) <br> Attendance Mode: <u>TBA</u> </h4>
+	    <h4 class="blackpar_title" style="font-family:'Source Sans Pro';"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
+		<h5 class="blackpar_title" style="font-family:'Source Sans Pro';">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> October 29 -- November 3, 2023, Ottawa (Canada) <br> Attendance Mode: <u>TBA</u> </h5>
 			<!-- (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
 <br>
 
 
-<br>
 
 <!--
 <div class="alert alert-danger" role="alert">
@@ -38,14 +37,14 @@ layout: home
 
 <br>
 -->
-<h2 class="blackpar_title" id="bews">News and Updates</h2>
+<h2 class="blackpar_title" id="news">News and Updates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
 	<li> <b>[25 April, 2023]</b> <a href="https://sumac-workshops.github.io/2023/">Website Launched !</a></li>
 </ul>
 </p>
-
+<br>
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <hr  style="color: rgb(212, 110, 0);">
@@ -94,7 +93,6 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <p><b>Submission format</b> All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work in progress. One submission format is accepted: full paper, which must follow the formatting guidelines of the main conference ACM MM 2023. Full papers should be from 6 to 8 pages (plus 2 additional pages for the references), encoded as PDF and using the ACM Article Template. For author guidelines and instructions, please visit https://www.acmmm2023.org/instructions/.
 </p>
-<br>
 
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p><br>

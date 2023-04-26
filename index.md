@@ -10,7 +10,7 @@ layout: home
 <div style="font-family: 'Source Sans', sans-serif; background: url('images/maple.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
 		<h2 class="blackpar_title">SUMAC 2023</h2>
-		<h3 class="blackpar_title"> 5<sup>th</sup> workshop on the analy<a style="color: rgb(193, 0, 0)">s</a>is, <a style="color: rgb(193, 0, 0)">u</a>nderstanding and pro<a style="color: rgb(193, 0, 0)">m</a>otion of herit<a style="color: rgb(193, 0, 0)">a</a>ge <a style="color: rgb(193, 0, 0)">c</a>ontents</h3>
+		<h3 class="blackpar_title"> 5<sup>th</sup> workshop on the analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(248, 3, 3)">u</a>nderstanding <br>and pro<a style="color: rgb(162, 82, 2)">m</a>otion of herit<a style="color: rgba(174, 107, 0, 0.99)">a</a>ge <a style="color: rgb(141, 94, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
 		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> October 29 -- November 3, 2023, Ottawa (Canada) <br> Attendance Mode: <u>TBA</u> </h5>
 			<!-- (Ballroom C) and <b>Virtual</b> </h3> -->
@@ -36,7 +36,8 @@ layout: home
 
 <br>
 -->
-<h2 class="blackpar_title" id="news">News and Updates</h2>
+<!-- News and Updates -->
+<h2 class="blackpar_title" id="bews">News and Updates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
@@ -96,6 +97,20 @@ layout: home
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p><br>
 
+<!-- Special Highlights -->
+<h2 class="blackpar_title" id="highlights">Special Highlights</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p> <b>Best Paper Award - </b>We will present a best paper award, accompanied with a certificate and a trophy, similar to previous editions. </p>
+<p> <b>Journal Special Issue - </b>Authors of the best papers from SUMAC 2023 will be invited to submit an extended and improved version for consideration for Special Issue on Cultural Heritage in the Springer journal Multimedia Tools and Applications.</p>
+<br>
+
+<!-- Organizers -->
+<h2 class="blackpar_title" id="organizers">Organizers</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+{% include organizers.html %}
+</p>
+<br>
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Confirmed Speakers (TBA)</h2>
@@ -109,43 +124,7 @@ layout: home
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (TBA)</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<!-- Organizers -->
-<h2 class="blackpar_title" id="organizers">Organizers</h2>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include organizers.html %}
-</p>
 
-<!-- <h2 class="blackpar_title" id="Organizers">Volunteers</h2>
-<div class="row_perso">
-	<div class="card_perso column_perso justify-content-center" style="margin-left:24%;">
-	  <img src="/images/khalil_bibi.png" alt="Khalil Bibi" class="img_card_perso">
-	  <div class="container_perso" >
-		<center>
-		<h6>
-			<b>Khalil Bibi</b>
-			<br>
-			Huawei Noah's Ark Lab
-		</h6>
-		</center>
-	  </div>
-	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/Soheila.png" alt="Soheila Samiee" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Soheila Samiee</b>
-			<br>
-			BASF
-		</h6>
-		</center>
-	  </div>
-	</div>
-</div> -->
-
-
-<br>
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee (TBA)</h2>
@@ -161,17 +140,17 @@ layout: home
 <div class="row">
 	<div class="col">
 		<center>
-			<a href="https://ign.fr/"> <img src="/2023/images/ign.png" width="250px"> </a> 
+			<a href="https://ign.fr/"> <img src="images/ign.png" width="250px"> </a> 
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<a href="https://www.timemachine.eu/"> <img src="/2023/images/TM-logo.png" width="320px"> </a> 
+			<a href="https://www.timemachine.eu/"> <img src="images/TM-logo.png" width="320px"> </a> 
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<a href="http://www.zfc.edu.cn/"> <img src="/2023/images/logo_zfc.png" width="150px"> </a> 
+			<a href="http://www.zfc.edu.cn/"> <img src="images/logo_zfc.png" width="150px"> </a> 
 		</center>
 	</div>
 </div>

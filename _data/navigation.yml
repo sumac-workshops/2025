@@ -1,21 +1,23 @@
 - title: Home
-  url: /2023/index.html
+  url: index.html
 - title: Overview
-  url: /2023/index.html#overview
-- title: Call for papers
-  url: /2023/index.html#call_for_papers
+  url: index.html#overview
+- title: CfP
+  url: index.html#call_for_papers
+- title: Special Highlights
+  url: index.html#highlights
 - title: Organizers
-  url: /2023/index.html#organizers
+  url: index.html#organizers
 - title: Speakers
-  url: /2023/index.html#speakers
+  url: index.html#speakers
 - title: Schedule
-  url: /2023/index.html#schedule 
+  url: index.html#schedule 
 - title: Program committee
-  url: /2023/index.html#program_committee 
+  url: index.html#program_committee 
+- title: Previous Editions
+  url: index.html#previous_editions
 # - title: Accepted papers
 #   url: TBA
-#   # url: /2023/accepted_papers.html
+#   # url: accepted_papers.html
 # - title: Poster session
 #   url: TBA
-- title: Previous Editions
-  url: /2023/index.html#previous_editions

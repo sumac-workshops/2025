@@ -6,15 +6,15 @@ description: > # this means to ignore newlines until "show_excerpts:"
   SUMAC: Workshop on the analySis, Understanding and proMotion of heritAge Contents
 
 # Customized links for main menu
-header_menu:
-#  - title:Call for papers
- #   url: call_for_papers
-  Call for Papers:
-  Organizers:
-  Confirmed Spearkers:
-  Schedule:
-  Technical Committee:
-  Previous Editions:
+# header_menu:
+# #  - title:Call for papers
+#  #   url: call_for_papers
+#   Call for Papers:
+#   Organizers:
+#   Confirmed Spearkers:
+#   Schedule:
+#   Technical Committee:
+#   Previous Editions:
     
 show_excerpts: true # set to true to show excerpts on the homepage
 

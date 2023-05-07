@@ -82,10 +82,10 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul> 
-	<li>Paper submission: <b>July 7, 2023 (AoE)</b></li>
-	<li>Author acceptance notification: July 30, 2023</li>
-	<li>Camera-Ready: July 31, 2023</li>
-	<li>Workshop date: October 29 - November 3, 2023</li>
+	<li>Paper submission: <b>July 24, 2023 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
+	<li>Author acceptance notification: August 9, 2023</li>
+	<li>Camera-Ready: August 12, 2023</li>
+	<li>Workshop date: TBA: October 29 - November 3, 2023</li>
 </ul>
 <br>
 

@@ -131,7 +131,7 @@ layout: home
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <hr>
 <p> 
-{include program_committee.yml} 
+{% include program_committee.html %} 
 </p>
 <br>
 

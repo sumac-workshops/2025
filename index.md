@@ -100,6 +100,9 @@ layout: home
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p><br>
 
+<p><b>Submission Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC</a>
+</p><br>
+
 <!-- Special Highlights -->
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
 <hr  style="color: rgb(212, 110, 0);">
@@ -116,7 +119,7 @@ layout: home
 <br>
 
 <!--Confirmed Speakers-->
-<h2 class="blackpar_title" id="speakers">Confirmed Speakers</h2>
+<h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include speakers.html %}

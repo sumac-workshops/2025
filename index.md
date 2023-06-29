@@ -43,6 +43,7 @@ layout: home
 <ul>
 	<li> <b>[28 June, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submissions Site Open!</a></li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
+	<li> <b>[28 June, 2023]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[25 April, 2023]</b> <a href="https://sumac-workshops.github.io/2023/">Website Launched!</a></li>
 </ul>
 </p>
@@ -125,7 +126,9 @@ layout: home
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (TBA)</h2>
 <hr  style="color: rgb(212, 110, 0);">
-
+<p>
+{% include schedule.html %}
+</p>
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>

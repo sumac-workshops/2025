@@ -5,8 +5,15 @@
       affiliation: Carleton University, Ottawa Canada
       photo: mario-santana.jpeg
       url: https://carleton.ca/cee/profile/mario-santana-quintero/
+      bio: "Prof. Mario Santana-Quintero, is a professor at the Civil and Environmental Engineering (Carleton University) in Ottawa, Canada. He is also a Carleton immersive Media Studio Lab (CIMS) faculty member. Besides his academic work in Canada, he is a guest professor at the Raymond Lemaire International Centre for Conservation (University of Leuven). Along with his academic activities, he is the past Secretary-General of the International Council of Monuments and Sites (ICOMOS), serves as board member of the World Heritage Interpretation and Presentation Centre under the auspices of UNESCO, and honorary president of the ICOMOS Scientific Committee on Heritage Documentation (CIPA).
+				Furthermore, he has been a Getty Conservation Institute scholar. He has collaborated in several international projects in the field of heritage documentation for The Getty Conservation Institute, UNESCO among others. In recent years he was awarded a Doctorate Honoris Causa from the University of Liege (Belgium), and he is a member of the Association of Preservation Technology College of Fellows."
+
+
+- num_row: 2
+  speakers:
     - name: Victor de Boer
       title: Prof. 
       affiliation: Vrije Universiteit Amsterdam
       photo: Victor-de-Boer.jpeg
       url: http://www.victordeboer.com/
+      bio: "Prof. Victor de Boer is an associate professor (UHD) at the User-Centric Data Science group at the Computer Science department of the Vrije Universiteit Amsterdam (VU). He is also a senior research fellow at Netherlands Institute for Sound and Vision  and act as co-director of the Cultural AI Lab. In his research, he combines (Semantic) Web technologies with Human-Computer Interaction, Knowledge Representation and Information Extraction to tackle research challenges in various domains. These include Cultural Heritage, Digital Humanities and ICT for Development (ICT4D). He is currently involved in the following research projects: (1) InTaVia: making linked cultural heritage and biographical data usable for end-users; (2) Pressing Matter: developing data models to support societal reconciliation with the colonial past and its afterlives; (3) Interconnect: machine learning on IoT and smart energy knowledge graphs; (4) CLARIAH: investigating how to use linked data for connecting Linked media; (5) Hybrid Intelligence: Augmenting Human Intellect; and (6) CARPA: responsible production using crowdsourcing in Africa."

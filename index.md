@@ -12,8 +12,8 @@ layout: home
 		<h2 class="blackpar_title">SUMAC 2023</h2>
 		<h3 class="blackpar_title"> 5<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> October 29 -- November 3, 2023, Ottawa (Canada) <br> Attendance Mode: <u>TBA</u> </h5>
-			<!-- (Ballroom C) and <b>Virtual</b> </h3> -->
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> October 29 -- November 3, 2023, Ottawa (Canada) </h5>
+			<!-- <br> Attendance Mode: <u>TBA</u>  (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
 <br>
@@ -53,7 +53,7 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <p> The fifth version of the SUMAC (analySis, Understanding and proMotion of heritAge Contents) workshop, like its predecessors, focuses on analyzing, processing and valorizing all types of data related to cultural heritage, including tangible and intangible heritage. As stated by UNESCO, cultural heritage provides societies with a wealth of resources inherited from the past, created in the present for the benefit of future generations. </p>
 
-<p> Digital heritage data acquired are naturally massive and address a large diversity of modalities (iconography, text, structured referentials, image, video, 3D, music, sensor data). Their processing and promotion put into light several scientific challenges as well as various new use cases that are of topical interest today for the ACM Multimedia community, both for academics and industries. Like in the previous editions, we will strive to value the sharing of knowledge, algorithms and experiments; and also open source software and open data, by encouraging the submission of articles that promote this sharing policy. </p>
+<p> Digital heritage data acquired are naturally massive and address a large diversity of monomodal modalities (text, structured referentials, image, video, 3D, music, sensor data). Their processing and promotion put into light several scientific challenges as well as various new use cases that are of topical interest today for the ACM Multimedia community, both for academics and industries. Like in the previous editions, we will strive to value the sharing of knowledge, algorithms and experiments; and also open source software and open data, by encouraging the submission of articles that promote this sharing policy. </p>
 <p> Abundant heritage data is available in the most recent years. Older data, that can be called the big data of the past, are mostly locked -- they currently remain largely “hidden” from the public, in galleries, libraries, archives, museums or data producers' infrastructures. Processing heritage data to increase their visibility will act as a game changer and contribute to a large panel of communities, by enabling an outstanding pool of inter-operable data, not only as a service to citizens but also to public or private actors, by challenging the research methods at the crossing of computer science, artificial intelligence and digital humanities. </p>
 <br>
 <!-- Call for Papers -->

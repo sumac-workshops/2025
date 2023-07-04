@@ -62,7 +62,7 @@ layout: home
 <p> The ambition of SUMAC is to bring together researchers and practitioners from different disciplines to share ideas and methods on current trends in the analysis, understanding and promotion of heritage contents. These challenges are reflected in the corresponding sub-fields of machine learning, signal processing, multi-modal techniques and human-machine interaction. We welcome research contributions for the following (but not limited to) topics: </p>
 
 <ul>
-	<li> Monomodal analysis: images, text, structured referentials, image, video, 3D, music, sensor data. </li>
+	<li> Monomodal analysis: images, text, video, 3D, music, sensor data and structured referentials. </li>
 	<li> Information retrieval for multimedia heritage</li>
 	<li> Automated archaeology and heritage data processing</li>
 	<li> Multi-modal deep learning and time series analysis for heritage data</li>

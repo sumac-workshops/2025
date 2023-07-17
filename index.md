@@ -41,6 +41,7 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
+	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a></li>
 	<li> <b>[28 June, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submissions Site Open!</a></li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#imp_dates">Important Dates</a></li>
@@ -86,7 +87,7 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul> 
-	<li>Paper submission: <b>July 24, 2023 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
+	<li>Paper submission: <b>July 27, 2023 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
 	<li>Author acceptance notification: August 9, 2023</li>
 	<li>Camera-Ready: August 12, 2023</li>
 	<li>Workshop date: TBA: October 29 - November 3, 2023</li>

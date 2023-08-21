@@ -12,7 +12,7 @@ layout: home
 		<h2 class="blackpar_title">SUMAC 2023</h2>
 		<h3 class="blackpar_title"> 5<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> October 29 -- November 3, 2023, Ottawa (Canada) </h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> November 2, 2023, Ottawa (Canada) </h5>
 			<!-- <br> Attendance Mode: <u>TBA</u>  (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
@@ -91,7 +91,7 @@ layout: home
 	<li>Paper submission: <b>July 30, 2023 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
 	<li>Author acceptance notification: August 14, 2023</li>
 	<li>Camera-Ready: August 27, 2023</li>
-	<li>Workshop date: TBA: October 29 - November 3, 2023</li>
+	<li>Workshop date: TBA: November 2, 2023</li>
 </ul>
 <br>
 

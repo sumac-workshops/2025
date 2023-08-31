@@ -12,20 +12,19 @@
   Whole_line: false
   # Bio: 'Professor Jimmy Lin holds the David R. Cheriton Chair in the David R. Cheriton School of Computer Science at the University of Waterloo. For a quarter of a century, his research has been driven by the quest to develop methods and build tools that connect users to  relevant information. His work mostly lies at the intersection of information retrieval and natural language processing, with a focus on two fundamental challenges: those of understanding and scale.'
   # Abstract: Information retrieval (IR) - the challenge of connecting users to previously stored relevant information - has received renewed  attention of late due to the advent of pretrained transformer-based  models. In recent years, we have seen the introduction of many new  types of models (e.g., dense and sparse learned representations,  cross-encoders, etc.) in the context of techniques that have been around for decades (e.g., BM25, multi-stage ranking, etc.). What does it mean for a search system to be efficient? In this talk, I'll try to sort through efficiency tradeoffs in the design and construction of end-to-end search systems, organized along the dimensions of time, space, and cost.
-
   Title: "Latent Wander: an Alternative Interface for Interactive and Serendipitous Discovery of Large AV Archives"
   Time: TBA
   Presenter: 
   Is_paper: true
   Whole_line: false
 
-  Title: Spatially Localised Immersive Contemporary and Historic Photo Presentation on Mobile Devices in Augmented Reality
+  Title: "Spatially Localised Immersive Contemporary and Historic Photo Presentation on Mobile Devices in Augmented Reality"
   Time: TBA
   Presenter: 
   Is_paper: true
   Whole_line: false
 
-  Title: '"Do touch!" - 3D Scanning and Printing Technologies for the Haptic Representation of Cultural Assets: A Study with Blind Target Users'
+  Title: 'Do touch!" - 3D Scanning and Printing Technologies for the Haptic Representation of Cultural Assets: A Study with Blind Target Users'
   Time: TBA
   Presenter: 
   Is_paper: true
@@ -37,7 +36,7 @@
   Is_paper: true
   Whole_line: false
 
-  Title: Clustering for the Analysis and Enrichment of Corpus of Images for the Spatio-temporal Monitoring of Restoration Sites
+  Title: "Clustering for the Analysis and Enrichment of Corpus of Images for the Spatio-temporal Monitoring of Restoration Sites"
   Time: TBA
   Presenter: 
   Is_paper: true

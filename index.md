@@ -91,7 +91,7 @@ layout: home
 	<li>Paper submission: <b>July 30, 2023 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
 	<li>Author acceptance notification: August 14, 2023</li>
 	<li>Camera-Ready: August 27, 2023</li>
-	<li>Workshop date: TBA: November 2, 2023</li>
+	<li>Workshop date: November 2, 2023</li>
 </ul>
 <br>
 

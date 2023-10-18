@@ -41,6 +41,7 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
+	<li> <b>[18 Oct, 2023]</b> <a href="index.html#schedule">Workshop Schedule Announced!</a></li>
 	<li> <b>[20 July, 2023]</b> <a href="index.html#imp_dates">Important dates further extended</a></li>
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a></li>
 	<li> <b>[28 June, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submissions Site Open!</a></li>
@@ -130,7 +131,7 @@ layout: home
 <br>
 
 <!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (Ottawa time) </h2>
+<h2 class="blackpar_title" id="schedule">Schedule (Ottawa time, 2 Nov 2023) </h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> Keynotes: 40 min talk + 10 min Q&A; Orals: 20 min talk + 5 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">

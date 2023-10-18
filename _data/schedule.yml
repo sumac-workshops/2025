@@ -1,56 +1,78 @@
-- Title: <b>(KeyNote Talk)</b> Opportunities and Challenges in digitally transforming World Heritage at 50+ years
-  Time: TBA
-  Presenter: Mario Santana Quintero
+- Title: <b>Opening Welcome</b> 
+  Time: 08.30 - 08.45
+  Presenter: SUMAC Chairs
   Is_paper: false
   Whole_line: false
-  # Bio: Dr. Lu HOU is a researcher at the Speech and Semantics Lab in Huawei Noah's Ark Lab. She obtained Ph.D. from Hong Kong University of Science and Technology in 2019, under the supervision of Prof. James T. Kwok. Her current research interests include compression and acceleration of deep neural networks, natural language processing, and deep learning optimization.
-  # Abstract: Unsupervised large-scale vision-language pre-training has shown promising advances on various downstream tasks. Existing methods often model the cross-modal interaction either via the similarity of the global feature of each modality which misses sufficient information, or finer-grained interactions using cross/self-attention upon visual and textual tokens. However, cross/self-attention suffers from inferior efficiency in both training and inference. In this talk, we introduce a large-scale Fine-grained Interactive Language-Image Pre-training method to achieve finer-level alignment through a cross-modal late interaction mechanism, which uses a token-wise maximum similarity between visual and textual tokens to guide the contrastive objective. The resultant model FILIP and Wukong achieve good performance on multiple downstream vision-language tasks, while maintaining the inference efficiency of dual-stream models. The visualization on word-patch alignment further shows that FILIP can learn meaningful fine-grained features with promising localization ability. Furthermore, we release a 100 million Chinese image-text pair dataset for pre-training.
+  # 
 - Title: <b>(KeyNote Talk)</b> Knowledge Graphs for Cultural Heritage and Digital Humanities
-  Time: TBA
+  Time: 08.45 - 09.35
   Presenter: Victor de Boer
   Is_paper: false
   Whole_line: false
-  # Bio: 'Professor Jimmy Lin holds the David R. Cheriton Chair in the David R. Cheriton School of Computer Science at the University of Waterloo. For a quarter of a century, his research has been driven by the quest to develop methods and build tools that connect users to  relevant information. His work mostly lies at the intersection of information retrieval and natural language processing, with a focus on two fundamental challenges: those of understanding and scale.'
-  # Abstract: Information retrieval (IR) - the challenge of connecting users to previously stored relevant information - has received renewed  attention of late due to the advent of pretrained transformer-based  models. In recent years, we have seen the introduction of many new  types of models (e.g., dense and sparse learned representations,  cross-encoders, etc.) in the context of techniques that have been around for decades (e.g., BM25, multi-stage ranking, etc.). What does it mean for a search system to be efficient? In this talk, I'll try to sort through efficiency tradeoffs in the design and construction of end-to-end search systems, organized along the dimensions of time, space, and cost.
-- Title: "Latent Wander: an Alternative Interface for Interactive and Serendipitous Discovery of Large AV Archives"
-  Time: TBA
-  Presenter: 
-  Is_paper: true
-  Whole_line: false
-  #
   #
 - Title: "Spatially Localised Immersive Contemporary and Historic Photo Presentation on Mobile Devices in Augmented Reality"
-  Time: TBA
-  Presenter: 
+  Time: 09.35 - 10.00
+  Presenter: Loris Sauter
   Is_paper: true
   Whole_line: false
   #
+- Title: <b>"Coffee Break"</b>
+  Time: 10.00 - 10.30
+  Presenter: -
+  Is_paper: false
+  Whole_line: false
+  # 
 - Title: '"Do touch!" - 3D Scanning and Printing Technologies for the Haptic Representation of Cultural Assets: A Study with Blind Target Users'
-  Time: TBA
-  Presenter: 
-  Is_paper: true
-  Whole_line: false
-  #
-- Title: "Why Don't You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation"
-  Time: TBA
-  Presenter: 
-  Is_paper: true
-  Whole_line: false
-  #
-- Title: "Clustering for the Analysis and Enrichment of Corpus of Images for the Spatio-temporal Monitoring of Restoration Sites"
-  Time: TBA
-  Presenter: 
+  Time: 10.30 - 10.55
+  Presenter: TBA
   Is_paper: true
   Whole_line: false
   #
 - Title: "SniffyArt: The Dataset of Smelling Persons"
-  Time: TBA
-  Presenter: 
+  Time: 10.55 - 11.20
+  Presenter: TBA
   Is_paper: true
   Whole_line: false
   #
-- Title: "Beyond Built Year Prediction: The Bag of Time Model and a Case Study of Buddha Images"
-  Time: TBA
-  Presenter: 
+- Title: <b>"Lunch Break"</b>
+  Time: 11.20 - 13.00
+  Presenter: -
+  Is_paper: false
+  Whole_line: false
+  # 
+- Title: <b>(KeyNote Talk)</b> Opportunities and Challenges in digitally transforming World Heritage at 50+ years
+  Time: 13.00 - 13.50
+  Presenter: Mario Santana Quintero
+  Is_paper: false
+  Whole_line: false
+  # 
+- Title: "Why Don't You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation"
+  Time: 13.50 - 14.15
+  Presenter: TBA
   Is_paper: true
   Whole_line: false
+  #
+- Title: "Latent Wander: an Alternative Interface for Interactive and Serendipitous Discovery of Large AV Archives"
+  Time: 14.15 - 14.40
+  Presenter: TBA
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>Award Ceremony and Wrap-Up</b> 
+  Time: 14.40 - 15.15
+  Presenter: SUMAC Chairs
+  Is_paper: false
+  Whole_line: false
+  # 
+- Title: "Beyond Built Year Prediction: The Bag of Time Model and a Case Study of Buddha Images"
+  Time: (Poster)
+  Presenter: TBA
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: "Clustering for the Analysis and Enrichment of Corpus of Images for the Spatio-temporal Monitoring of Restoration Sites"
+  Time: (Poster)
+  Presenter: TBA
+  Is_paper: true
+  Whole_line: false
+  #

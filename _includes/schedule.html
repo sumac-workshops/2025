@@ -30,13 +30,13 @@
 	<div class="row">
 		<table id="customers">
 			<tr>
-				<th colspan='2'>Time</th>
+				<th>Time</th>
 				<th>Title</th>
 				<th>Presenter</th>
 			</tr>
 			{% for event in schedule %}
 				<tr>
-					<td colspan='2'>{{ event.Time }}</td>
+					<td>{{ event.Time }}</td>
 					
 					{% if event.Whole_line == true%}
 						<td colspan='3'>{{ event.Title }}</td>

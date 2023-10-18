@@ -20,7 +20,7 @@
   Time: 10.00 - 10.30
   Presenter: 
   Is_paper: false
-  Whole_line: false
+  Whole_line: true
   # 
 - Title: '"Do touch!" - 3D Scanning and Printing Technologies for the Haptic Representation of Cultural Assets: A Study with Blind Target Users'
   Time: 10.30 - 10.55
@@ -38,7 +38,7 @@
   Time: 11.20 - 13.00
   Presenter: 
   Is_paper: false
-  Whole_line: false
+  Whole_line: true
   # 
 - Title: <b>(KeyNote Talk)</b> Opportunities and Challenges in digitally transforming World Heritage at 50+ years
   Time: 13.00 - 13.50

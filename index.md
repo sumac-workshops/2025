@@ -41,7 +41,7 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
-	<li> <b>[1 Nov, 2023]</b> The <b>(D-day)</b> is almost here & we are excited to meet you all tomorrow - <b>2 Nov, 2023.</b><a href="index.html#schedule">[Schedule here]</a></li>
+	<li> <b>[1 Nov, 2023]</b> The <b>D-day</b> is almost here & we are excited to meet you all tomorrow - <b>2 Nov, 2023</b><a href="index.html#schedule"> [Schedule]</a></li>
 	<li> <b>[18 Oct, 2023]</b> <a href="index.html#schedule">Workshop Schedule Announced!</a></li>
 	<li> <b>[20 July, 2023]</b> <a href="index.html#imp_dates">Important dates further extended</a></li>
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a></li>

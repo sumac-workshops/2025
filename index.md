@@ -39,7 +39,7 @@ layout: home
 <!-- News and Updates -->
 <h2 class="blackpar_title" id="bews">News and Updates</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p> <b> Best Paper Award </b> - <em>Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation </em> - Matteo Zaramella, Irene Amerini, Paolo Russo.
+<p style="background-color:#ff8c00;"> <b> Best Paper Award </b> - <em>Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation </em> - Matteo Zaramella, Irene Amerini, Paolo Russo.
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>

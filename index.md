@@ -39,6 +39,8 @@ layout: home
 <!-- News and Updates -->
 <h2 class="blackpar_title" id="bews">News and Updates</h2>
 <hr  style="color: rgb(212, 110, 0);">
+Best Paper Award - <b><em>Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation </b></em> - Matteo Zaramella, Irene Amerini, Paolo Russo.
+<hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
 	<li> <b>[1 Nov, 2023]</b> The <b>D-day</b> is almost here & we are excited to meet you all tomorrow - <b>2 Nov, 2023</b><a href="index.html#schedule"> [Schedule]</a></li>

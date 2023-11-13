@@ -45,13 +45,13 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
-	<li>Latent Wander: an Alternative Interface for Interactive and Serendipitous Discovery of Large AV Archives -- <em>Yuchen Yang and Linyida Zhang</em><a href="https://doi.org/10.1145/3607542.3617355">[ACM DL Link]</a></li>
-	<li>Spatially Localised Immersive Contemporary and Historic Photo Presentation on Mobile Devices in Augmented Reality -- <em>Loris Sauter, Tim Bachmann, Luca Rossetto, and Heiko Schuldt</em><a href="https://doi.org/10.1145/3607542.3617358">[ACM DL Link]</a></li>
-	<li>"Do touch!" - 3D Scanning and Printing Technologies for the Haptic Representation of Cultural Assets: A Study with Blind Target Users -- <em>Arne Bruns, Anika A. Spiesberger, Andreas Triantafyllopoulos, Patric Müller, and Björn W. Schuller</em><a href="https://doi.org/10.1145/3607542.3617351">[ACM DL Link]</a></li>
-	<li>Why Don't You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation -- <em>Matteo Zaramella, Irene Amerini, and Paolo Russo</em><a href="https://doi.org/10.1145/3607542.3617359">[ACM DL Link]</a></li>
-	<li>Clustering for the Analysis and Enrichment of Corpus of Images for the Spatio-temporal Monitoring of Restoration Sites -- <em>Laura Willot, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca, and Adeline Manuel</em><a href="https://doi.org/10.1145/3607542.3617353">[ACM DL Link]</a></li>
-	<li>SniffyArt: The Dataset of Smelling Persons -- <em>Mathias Zinnen, Azhar Hussian, Hang Tran, Prathmesh Madhu, Andreas Maier, and Vincent Christlein</em><a href="https://doi.org/10.1145/3607542.3617357">[ACM DL Link]</a></li>
-	<li>Beyond Built Year Prediction: The Bag of Time Model and a Case Study of Buddha Images -- <em>Li Weng</em><a href="https://doi.org/10.1145/3607542.3617352">[ACM DL Link]</a></li>
+	<li><b>Latent Wander: an Alternative Interface for Interactive and Serendipitous Discovery of Large AV Archives </b>- <em>Yuchen Yang and Linyida Zhang</em><a href="https://doi.org/10.1145/3607542.3617355"> [ACM DL Link]</a></li>
+	<li><b>Spatially Localised Immersive Contemporary and Historic Photo Presentation on Mobile Devices in Augmented Reality </b>- <em>Loris Sauter, Tim Bachmann, Luca Rossetto, and Heiko Schuldt</em><a href="https://doi.org/10.1145/3607542.3617358"> [ACM DL Link]</a></li>
+	<li><b>"Do touch!" - 3D Scanning and Printing Technologies for the Haptic Representation of Cultural Assets: A Study with Blind Target Users </b>- <em>Arne Bruns, Anika A. Spiesberger, Andreas Triantafyllopoulos, Patric Müller, and Björn W. Schuller</em><a href="https://doi.org/10.1145/3607542.3617351"> [ACM DL Link]</a></li>
+	<li><b>Why Don't You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation </b>- <em>Matteo Zaramella, Irene Amerini, and Paolo Russo</em><a href="https://doi.org/10.1145/3607542.3617359"> [ACM DL Link]</a></li>
+	<li><b>Clustering for the Analysis and Enrichment of Corpus of Images for the Spatio-temporal Monitoring of Restoration Sites </b>- <em>Laura Willot, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca, and Adeline Manuel</em><a href="https://doi.org/10.1145/3607542.3617353"> [ACM DL Link]</a></li>
+	<li><b>SniffyArt: The Dataset of Smelling Persons </b>- <em>Mathias Zinnen, Azhar Hussian, Hang Tran, Prathmesh Madhu, Andreas Maier, and Vincent Christlein</em><a href="https://doi.org/10.1145/3607542.3617357"> [ACM DL Link]</a></li>
+	<li><b>Beyond Built Year Prediction: The Bag of Time Model and a Case Study of Buddha Images </b>- <em>Li Weng</em><a href="https://doi.org/10.1145/3607542.3617352"> [ACM DL Link]</a></li>
 </ul>
 </p>
 <br>

@@ -7,12 +7,12 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: url('images/maple.png') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: url('images/front_photo_melbourne.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
-		<h2 class="blackpar_title">SUMAC 2023</h2>
-		<h3 class="blackpar_title"> 5<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
+		<h2 class="blackpar_title">SUMAC 2024</h2>
+		<h3 class="blackpar_title"> 6<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;">In conjunction with <a href="(https://www.acmmm2023.org/)"> ACM Multimedia 2023 </a><br> November 2, 2023, Ottawa (Canada) </h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;">In conjunction with <a href="(https://https://2024.acmmm.org/)"> ACM Multimedia 2024 </a><br> 28 Oct - 1 November, 2024, Melbourne (Australia) </h5>
 			<!-- <br> Attendance Mode: <u>TBA</u>  (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
@@ -35,17 +35,17 @@ layout: home
 </div>
 
 <br>
--->
+
 
 <p style="background-color:#ffcc00;"> <b> Best Paper Award </b> - <em>"Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation" </em> - Matteo Zaramella, Irene Amerini, Paolo Russo.
 <hr  style="color: rgb(212, 110, 0);">
 
-<!-- News and Updates -->
+ News and Updates -->
 <h2 class="blackpar_title" id="bews">News and Updates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
-	<li> <b>[2 Nov, 2023]</b> <b>SUMAC 2023 Best Paper Award</b> goes to <em>"Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation" </em> - Matteo Zaramella, Irene Amerini, Paolo Russo.</li>
+<!--	<li> <b>[2 Nov, 2023]</b> <b>SUMAC 2023 Best Paper Award</b> goes to <em>"Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation" </em> - Matteo Zaramella, Irene Amerini, Paolo Russo.</li>
 	<li> <b>[1 Nov, 2023]</b> The <b>D-day</b> is almost here & we are excited to meet you all tomorrow - <b>2 Nov, 2023</b><a href="index.html#schedule"> [Schedule]</a></li>
 	<li> <b>[18 Oct, 2023]</b> <a href="index.html#schedule">Workshop Schedule Announced!</a></li>
 	<li> <b>[20 July, 2023]</b> <a href="index.html#imp_dates">Important dates further extended</a></li>
@@ -53,7 +53,8 @@ layout: home
 	<li> <b>[28 June, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submissions Site Open!</a></li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#imp_dates">Important Dates</a></li>
-	<li> <b>[25 April, 2023]</b> <a href="https://sumac-workshops.github.io/2023/">Website Launched!</a></li>
+-->
+	<li> <b>[7 May, 2024]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li>
 </ul>
 </p>
 <br>
@@ -95,29 +96,31 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul> 
-	<li>Paper submission: <b>July 30, 2023 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
-	<li>Author acceptance notification: August 14, 2023</li>
-	<li>Camera-Ready: August 27, 2023</li>
-	<li>Workshop date: November 2, 2023</li>
+	<li>Paper submission: <b>July 19, 2024 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
+	<li>Author acceptance notification: August 5, 2024</li>
+	<li>Camera-Ready: August 19, 2024</li>
+	<li>Workshop date: TBA (28 Oct - 1 Nov, 2024)</li>
 </ul>
 <br>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p><b>Submission format</b> All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work as well as work in progress. One submission format is accepted: full paper, which must follow the formatting guidelines of the main conference ACM MM 2023. Full papers should be from 6 to 8 pages (plus 2 additional pages for the references), encoded as PDF and using the ACM Article Template. For author guidelines and instructions, please visit https://www.acmmm2023.org/instructions/.
+<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted: a) 4 pages plus 1-page reference (short paper); or b) 8 pages plus up to 2-page reference (full paper). They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2024 (https://2024.acmmm.org/regular-papers).
 </p>
 
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p>
 
-<p><b>Submission Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC</a>
+<p><b>Submission Site</b> TBA
 </p><br>
 
 <!-- Special Highlights -->
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> <b>Best Paper Award - </b>We will present a best paper award, accompanied with a certificate and a trophy, similar to previous editions. </p>
-<p> <b>Journal Special Issue - </b>Authors of the best papers from SUMAC 2023 will be invited to submit an extended and improved version for consideration for Special Issue on Cultural Heritage in the Springer journal Multimedia Tools and Applications.</p>
+
+<!-- <p> <b>Journal Special Issue - </b>Authors of the best papers from SUMAC 2023 will be invited to submit an extended and improved version for consideration for Special Issue on Cultural Heritage in the Springer journal Multimedia Tools and Applications.</p>
+-->
 <br>
 
 <!-- Organizers -->
@@ -132,11 +135,12 @@ layout: home
 <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
-{% include speakers.html %}
+TBA
+<!--{% include speakers.html %}-->
 </p>
 <br>
 
-<!-- Accepted Papers -->
+<!-- Accepted Papers 
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
@@ -151,9 +155,9 @@ layout: home
 </ul>
 </p>
 <br>
+-->
 
-
-<!-- Schedule -->
+<!-- Schedule 
 <h2 class="blackpar_title" id="schedule">Schedule (Ottawa time, 2 Nov 2023) </h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> Keynotes: 40 min talk + 10 min Q&A; Orals: 20 min talk + 5 min Q&A</p>
@@ -162,12 +166,13 @@ layout: home
 {% include schedule.html %}
 </p>
 <br>
-
+-->
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> 
-{% include program_committee.html %} 
+TBA
+<!--{% include program_committee.html %} -->
 </p>
 <br>
 

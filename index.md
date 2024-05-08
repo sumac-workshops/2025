@@ -105,7 +105,7 @@ layout: home
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted: a) 4 pages plus 1-page reference (short paper); or b) 8 pages plus up to 2-page reference (full paper). They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2024 (https://2024.acmmm.org/regular-papers).
+<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted: a) 4 pages plus 1-page reference (short paper); or b) 8 pages plus up to 2-page reference (full paper). They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2024 <a href="https://2024.acmmm.org/regular-papers"> (Link to the template)</a>.
 </p>
 
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.

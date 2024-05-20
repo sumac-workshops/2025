@@ -12,7 +12,7 @@ layout: home
 		<h2 class="blackpar_title">SUMAC 2024</h2>
 		<h3 class="blackpar_title"> 6<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="(https://https://2024.acmmm.org/)"> ACM Multimedia 2024 </a><br> 28 Oct - 1 November, 2024, Melbourne (Australia) </b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2024.acmmm.org/"> ACM Multimedia 2024 </a><br> 28 Oct - 1 November, 2024, Melbourne (Australia) </b></h5>
 			<!-- <br> Attendance Mode: <u>TBA</u>  (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>

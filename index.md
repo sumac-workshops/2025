@@ -49,11 +49,11 @@ layout: home
 	<li> <b>[1 Nov, 2023]</b> The <b>D-day</b> is almost here & we are excited to meet you all tomorrow - <b>2 Nov, 2023</b><a href="index.html#schedule"> [Schedule]</a></li>
 	<li> <b>[18 Oct, 2023]</b> <a href="index.html#schedule">Workshop Schedule Announced!</a></li>
 	<li> <b>[20 July, 2023]</b> <a href="index.html#imp_dates">Important dates further extended</a></li>
-	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a></li>
-	<li> <b>[28 June, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submissions Site Open!</a></li>
+	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
-	<li> <b>[28 June, 2023]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 -->
+	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
+	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide"> ---> Submissions Guidelines.</a></li>
 	<li> <b>[7 May, 2024]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li>
 </ul>
 </p>
@@ -111,7 +111,14 @@ layout: home
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p>
 
-<p><b>Submission Site</b> TBA
+<p><b>Profile Registration</b> Openreview (submissions' portal) requires a profile with OpenReview. 
+</p>
+IMP NOTES:
+<ul>
+	<li> New profiles created without an institutional email will go through a moderation process that can take up to two weeks.</li>
+	<li> New profiles created with an institutional email will be activated automatically.</li> 
+</ul>
+<p><b>Submissions' Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC</a>
 </p><br>
 
 <!-- Special Highlights -->

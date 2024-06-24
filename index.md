@@ -52,6 +52,8 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
+	<li>[24, June, 2024] <a href="index.html#speakers">Keynote Speakers Announced</a></li>
+	<li>[24, June, 2024] <a href="index.html#program_committee">Program Comittee Announced</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide"> ---> Submissions Guidelines.</a></li>
 	<li> <b>[7 May, 2024]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li>
@@ -82,7 +84,7 @@ layout: home
 </ul>
 
 <p>The scope of targeted applications is extensive and includes:</p>
-<ul> 
+<ul>
 	<li>Analysis, archaeometry of artifacts</li>
 	<li> Diagnosis and monitoring for restoration and preventive conservation</li>
 	<li> Geosciences / Geomatics for cultural heritage</li>
@@ -95,7 +97,7 @@ layout: home
 
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<ul> 
+<ul>
 	<li>Paper submission: <b>July 19, 2024 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
 	<li>Author acceptance notification: August 5, 2024</li>
 	<li>Camera-Ready: August 19, 2024</li>
@@ -111,12 +113,12 @@ layout: home
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p>
 
-<p><b>Profile Registration</b> Openreview (submissions' portal) requires a profile with OpenReview. 
+<p><b>Profile Registration</b> Openreview (submissions' portal) requires a profile with OpenReview.
 </p>
 IMP NOTES:
 <ul>
 	<li> New profiles created without an institutional email will go through a moderation process that can take up to two weeks.</li>
-	<li> New profiles created with an institutional email will be activated automatically.</li> 
+	<li> New profiles created with an institutional email will be activated automatically.</li>
 </ul>
 <p><b>Submissions' Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC</a>
 </p><br>
@@ -143,11 +145,11 @@ IMP NOTES:
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 TBA
-<!--{% include speakers.html %}-->
+{% include speakers.html %}
 </p>
 <br>
 
-<!-- Accepted Papers 
+<!-- Accepted Papers
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
@@ -164,7 +166,7 @@ TBA
 <br>
 -->
 
-<!-- Schedule 
+<!-- Schedule
 <h2 class="blackpar_title" id="schedule">Schedule (Ottawa time, 2 Nov 2023) </h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> Keynotes: 40 min talk + 10 min Q&A; Orals: 20 min talk + 5 min Q&A</p>
@@ -177,9 +179,9 @@ TBA
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p> 
+<p>
 TBA
-<!--{% include program_committee.html %} -->
+{% include program_committee.html %}
 </p>
 <br>
 
@@ -188,17 +190,17 @@ TBA
 <div class="row">
 	<div class="col">
 		<center>
-			<a href="https://ign.fr/"> <img src="images/ign.png" width="250px"> </a> 
+			<a href="https://ign.fr/"> <img src="images/ign.png" width="250px"> </a>
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<a href="https://www.timemachine.eu/"> <img src="images/TM-logo.png" width="320px"> </a> 
+			<a href="https://www.timemachine.eu/"> <img src="images/TM-logo.png" width="320px"> </a>
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<a href="http://www.zfc.edu.cn/"> <img src="images/logo_zfc.png" width="150px"> </a> 
+			<a href="http://www.zfc.edu.cn/"> <img src="images/logo_zfc.png" width="150px"> </a>
 		</center>
 	</div>
 </div>

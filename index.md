@@ -52,8 +52,8 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
-	<li>[24, June, 2024] <a href="index.html#speakers">Keynote Speakers Announced</a></li>
-	<li>[24, June, 2024] <a href="index.html#program_committee">Program Comittee Announced</a></li>
+	<li> <b>[24, June, 2024]</b> <a href="index.html#speakers">Keynote Speakers Announced</a></li>
+	<li> <b>[24, June, 2024]</b> <a href="index.html#program_committee">Program Comittee Announced</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide"> ---> Submissions Guidelines.</a></li>
 	<li> <b>[7 May, 2024]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li>
@@ -144,7 +144,6 @@ IMP NOTES:
 <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
-TBA
 {% include speakers.html %}
 </p>
 <br>
@@ -180,7 +179,6 @@ TBA
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
-TBA
 {% include program_committee.html %}
 </p>
 <br>

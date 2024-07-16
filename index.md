@@ -52,8 +52,9 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
-	<li> <b>[24, June, 2024]</b> <a href="index.html#speakers">Keynote Speakers Announced</a></li>
-	<li> <b>[24, June, 2024]</b> <a href="index.html#program_committee">Program Comittee Announced</a></li>
+	<li> <b>[16 July, 2024]</b> <a href="index.html#imp_dates">Deadline Extended to 23 July, 2024</a></li>
+	<li> <b>[24 June, 2024]</b> <a href="index.html#speakers">Keynote Speakers Announced</a></li>
+	<li> <b>[24 June, 2024]</b> <a href="index.html#program_committee">Program Comittee Announced</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide"> ---> Submissions Guidelines.</a></li>
 	<li> <b>[7 May, 2024]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li>
@@ -98,7 +99,7 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
-	<li>Paper submission: <b>July 19, 2024 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
+	<li>Paper submission: <b><s>July 19</s> July 23, 2024 <a href="https://www.timeanddate.com/time/zones/aoe">(AoE)</a></b></li>
 	<li>Author acceptance notification: August 5, 2024</li>
 	<li>Camera-Ready: August 19, 2024</li>
 	<li>Workshop date: TBA (28 Oct - 1 Nov, 2024)</li>

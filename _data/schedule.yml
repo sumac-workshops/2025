@@ -10,18 +10,7 @@
   Is_paper: false
   Whole_line: false
   #
-- Title: <b>(Abstract 1)</b> "Preserving cultural heritage is essential for maintaining the legacy and history of human civilization, but it
-presents challenges in managing vast amounts of historical artifacts and documents. Recent advances in
-artificial intelligence, especially large vision models (LVMs), offer unprecedented capabilities for understanding
-and preserving heritage content. This keynote will explore how LVMs are revolutionizing image analysis,
-encompassing advancements in architecture design, multimodal learning, and image generation. We will delve
-into specific applications such as object detection for identifying artifacts, pose estimation for interpreting
-historical depictions, text detection and recognition for deciphering ancient scripts, and visual grounding for
-contextualizing objects within textual descriptions. By leveraging the power of LVMs, we can gain deeper
-insights into cultural heritage, enabling better preservation strategies and fostering a richer understanding of our
-past for future generations. The future holds immense promise for LVMs in this domain, with potential
-applications in automating restoration processes, identifying damage at an early stage, uncovering hidden stories
-from historical artifacts, and creating engaging, interactive experiences for wider audiences."
+- Title: <b>(Abstract 1)</b> "Preserving cultural heritage is essential for maintaining the legacy and history of human civilization, but it presents challenges in managing vast amounts of historical artifacts and documents. Recent advances in artificial intelligence, especially large vision models (LVMs), offer unprecedented capabilities for understanding and preserving heritage content. This keynote will explore how LVMs are revolutionizing image analysis, encompassing advancements in architecture design, multimodal learning, and image generation. We will delve into specific applications such as object detection for identifying artifacts, pose estimation for interpreting historical depictions, text detection and recognition for deciphering ancient scripts, and visual grounding for contextualizing objects within textual descriptions. By leveraging the power of LVMs, we can gain deeper insights into cultural heritage, enabling better preservation strategies and fostering a richer understanding of our past for future generations. The future holds immense promise for LVMs in this domain, with potential applications in automating restoration processes, identifying damage at an early stage, uncovering hidden stories from historical artifacts, and creating engaging, interactive experiences for wider audiences."
   Time: 
   Presenter: 
   Is_paper: false

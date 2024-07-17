@@ -166,8 +166,8 @@ IMP NOTES:
 <br>
 -->
 
-<!-- Schedule
-<h2 class="blackpar_title" id="schedule">Schedule (Ottawa time, 2 Nov 2023) </h2>
+<!-- Schedule -->
+<h2 class="blackpar_title" id="schedule">Schedule (Melbourne time, 28 Oct / 1 Nov 2024) </h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> Keynotes: 40 min talk + 10 min Q&A; Orals: 20 min talk + 5 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">
@@ -175,7 +175,7 @@ IMP NOTES:
 {% include schedule.html %}
 </p>
 <br>
--->
+
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <hr  style="color: rgb(212, 110, 0);">

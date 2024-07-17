@@ -6,10 +6,11 @@
 #   # 
 - Title: <b>(KeyNote 1)</b> "From Pixels to Preservation - The Power of Large Vision Models in Heritage Content Understanding."
   Time: TBA
-  # Presenter: Dr. Jing Zhang
+  Presenter: Dr. Jing Zhang
   Is_paper: false
   Whole_line: false
-  Abstract: "Preserving cultural heritage is essential for maintaining the legacy and history of human civilization, but it
+  #
+- Title: <b>(Abstract 1)</b> "Preserving cultural heritage is essential for maintaining the legacy and history of human civilization, but it
 presents challenges in managing vast amounts of historical artifacts and documents. Recent advances in
 artificial intelligence, especially large vision models (LVMs), offer unprecedented capabilities for understanding
 and preserving heritage content. This keynote will explore how LVMs are revolutionizing image analysis,
@@ -21,6 +22,10 @@ insights into cultural heritage, enabling better preservation strategies and fos
 past for future generations. The future holds immense promise for LVMs in this domain, with potential
 applications in automating restoration processes, identifying damage at an early stage, uncovering hidden stories
 from historical artifacts, and creating engaging, interactive experiences for wider audiences."
+  Time: 
+  Presenter: 
+  Is_paper: false
+  Whole_line: false
   #
 - Title: <b>(KeyNote 2)</b> "God or the devil are in the details too. Reusing 3D digital resources for cultural heritage research."
   Time: TBA

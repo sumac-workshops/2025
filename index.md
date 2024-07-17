@@ -133,19 +133,19 @@ IMP NOTES:
 -->
 <br>
 
-<!-- Organizers -->
-<h2 class="blackpar_title" id="organizers">Organizers</h2>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include organizers.html %}
-</p>
-<br>
-
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include speakers.html %}
+</p>
+<br>
+
+<!-- Organizers -->
+<h2 class="blackpar_title" id="organizers">Organizers</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+{% include organizers.html %}
 </p>
 <br>
 

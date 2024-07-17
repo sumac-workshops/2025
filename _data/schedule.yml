@@ -11,17 +11,22 @@
   Whole_line: false
   #
 - Title: <b>(Abstract 1)</b> "Preserving cultural heritage is essential for maintaining the legacy and history of human civilization, but it presents challenges in managing vast amounts of historical artifacts and documents. Recent advances in artificial intelligence, especially large vision models (LVMs), offer unprecedented capabilities for understanding and preserving heritage content. This keynote will explore how LVMs are revolutionizing image analysis, encompassing advancements in architecture design, multimodal learning, and image generation. We will delve into specific applications such as object detection for identifying artifacts, pose estimation for interpreting historical depictions, text detection and recognition for deciphering ancient scripts, and visual grounding for contextualizing objects within textual descriptions. By leveraging the power of LVMs, we can gain deeper insights into cultural heritage, enabling better preservation strategies and fostering a richer understanding of our past for future generations. The future holds immense promise for LVMs in this domain, with potential applications in automating restoration processes, identifying damage at an early stage, uncovering hidden stories from historical artifacts, and creating engaging, interactive experiences for wider audiences."
-  Time: 
-  Presenter: 
+  Time:
+  Presenter:
   Is_paper: false
   Whole_line: false
   #
 - Title: <b>(KeyNote 2)</b> "God or the devil are in the details too. Reusing 3D digital resources for cultural heritage research."
   Time: TBA
-  # Presenter: Dr. Vera Moitinho de Almeida
+  Presenter: Dr. Vera Moitinho de Almeida
   Is_paper: false
   Whole_line: false
-  Abstract: "In material cultural heritage research practice, little attention seems to have been given to the digital data lifecycle. And, although often mentioned, to making research data actually FAIR (Findable, Accessible, Interoperable, Reusable; Wilkinson et al., 2016). In this talk, I will showcase an investigation on archaeological Greek and Cypriot pottery (c. 10th-4th BCE), with a strong emphasis on 3D digital resources. The objectives are manifold, namely: to understand the chronological and geographical variability of their production, use, and shape; as well as to enable conservation studies and monitoring. However, despite the considerable amount of 3D models of archaeological objects available online and elsewhere, I will demonstrate some of the barriers encountered to reusing them and proceeding with this investigation. This presentation tackles issues related to digital repositories and archives, quality and trust of 3D digital resources, contextual and useful metadata for research (including paradata), and data incompleteness. Knowing that although a resource cannot and need not be fully described, it can be better described."
+  #
+- Title: <b>(Abstract 2)</b> "In material cultural heritage research practice, little attention seems to have been given to the digital data lifecycle. And, although often mentioned, to making research data actually FAIR (Findable, Accessible, Interoperable, Reusable; Wilkinson et al., 2016). In this talk, I will showcase an investigation on archaeological Greek and Cypriot pottery (c. 10th-4th BCE), with a strong emphasis on 3D digital resources. The objectives are manifold, namely - to understand the chronological and geographical variability of their production, use, and shape; as well as to enable conservation studies and monitoring. However, despite the considerable amount of 3D models of archaeological objects available online and elsewhere, I will demonstrate some of the barriers encountered to reusing them and proceeding with this investigation. This presentation tackles issues related to digital repositories and archives, quality and trust of 3D digital resources, contextual and useful metadata for research (including paradata), and data incompleteness. Knowing that although a resource cannot and need not be fully described, it can be better described."
+  Time:
+  Presenter:
+  Is_paper: false
+  Whole_line: false
   #
 # - Title: "Spatially Localised Immersive Contemporary and Historic Photo Presentation on Mobile Devices in Augmented Reality"
 #   Time: 09.35 - 10.00

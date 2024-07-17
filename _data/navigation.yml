@@ -10,12 +10,12 @@
   url: index.html#highlights
 - title: Speakers
   url: index.html#speakers
-- title: Organizers
-  url: index.html#organizers
 - title: Schedule
   url: index.html#schedule 
 - title: Program committee
   url: index.html#program_committee 
+- title: Organizers
+  url: index.html#organizers
 - title: Previous Editions
   url: index.html#previous_editions
 # - title: Accepted papers

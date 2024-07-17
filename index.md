@@ -141,13 +141,6 @@ IMP NOTES:
 </p>
 <br>
 
-<!-- Organizers -->
-<h2 class="blackpar_title" id="organizers">Organizers</h2>
-<hr  style="color: rgb(212, 110, 0);">
-<p>
-{% include organizers.html %}
-</p>
-<br>
 
 <!-- Accepted Papers
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
@@ -181,6 +174,14 @@ IMP NOTES:
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include program_committee.html %}
+</p>
+<br>
+
+<!-- Organizers -->
+<h2 class="blackpar_title" id="organizers">Organizers</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+{% include organizers.html %}
 </p>
 <br>
 

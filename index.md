@@ -12,7 +12,7 @@ layout: home
 		<h2 class="blackpar_title">SUMAC 2024</h2>
 		<h3 class="blackpar_title"> 6<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2024.acmmm.org/"> ACM Multimedia 2024 </a><br> 28 Oct - 1 November, 2024, Melbourne (Australia) </b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2024.acmmm.org/"> ACM Multimedia 2024 </a><br> 28 Oct, 2024, Melbourne, Australia (On-Site) </b></h5>
 			<!-- <br> Attendance Mode: <u>TBA</u>  (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
@@ -52,8 +52,9 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
-	<li> <b>[10 Aug, 2024]</b><a href="https://2024.acmmm.org/important-dates">Camera-ready paper deadline and Author registration deadline is 22-August-2024.</a></li>
-	<li> <b>[10 Aug, 2024]</b><a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">The paper decisions are released on OpenReview.</a></li>
+	<li> <b>[20 Aug, 2024]</b> Workshop date announced: 28-Oct, 2024.</li>
+	<li> <b>[10 Aug, 2024]</b><a href="https://2024.acmmm.org/important-dates"> Camera-ready paper deadline and Author registration deadline is 22-August-2024.</a></li>
+	<li> <b>[10 Aug, 2024]</b><a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC"> The paper decisions are released on OpenReview.</a></li>
 	<li> <b>[16 July, 2024]</b> <a href="index.html#imp_dates">Deadline Extended to 12.59 PM, 24 July, 2024</a> <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></li>
 	<li> <b>[24 June, 2024]</b> <a href="index.html#speakers">Keynote Speakers Announced</a></li>
 	<li> <b>[24 June, 2024]</b> <a href="index.html#program_committee">Program Comittee Announced</a></li>

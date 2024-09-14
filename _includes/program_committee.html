@@ -8,7 +8,7 @@
 		<td>
 			<ul>
 				{% for member in tc_members %}
-					{% if forloop.index0 <= half_size %}
+					{% if forloop.index0 < half_size %}
 						<li> {{ member }} </li>
 					{% endif %}
 				{% endfor %}
@@ -17,7 +17,7 @@
 		<td>
 			<ul>
 				{% for member in tc_members %}
-					{% if forloop.index0 > half_size %}
+					{% if forloop.index0 >= half_size %}
 						<li> {{ member }} </li>
 					{% endif %}
 				{% endfor %}

@@ -1,96 +1,90 @@
-# - Title: <b>Opening Welcome</b> 
-#   Time: 08.30 - 08.45
-#   Presenter: SUMAC Chairs
-#   Is_paper: false
-#   Whole_line: false
-#   # 
-- Title: <b>(KeyNote 1)</b> "From Pixels to Preservation - The Power of Large Vision Models in Heritage Content Understanding."
-  Time: TBA
-  Presenter: Dr. Jing Zhang
+- Title: <b>"Welcome and Introduction"</b>
+  Time: 09.00 - 09.15
+  Presenter: SUMAC Chairs
   Is_paper: false
   Whole_line: false
   #
-- Title: <b>(Abstract 1)</b> "Preserving cultural heritage is essential for maintaining the legacy and history of human civilization, but it presents challenges in managing vast amounts of historical artifacts and documents. Recent advances in artificial intelligence, especially large vision models (LVMs), offer unprecedented capabilities for understanding and preserving heritage content. This keynote will explore how LVMs are revolutionizing image analysis, encompassing advancements in architecture design, multimodal learning, and image generation. We will delve into specific applications such as object detection for identifying artifacts, pose estimation for interpreting historical depictions, text detection and recognition for deciphering ancient scripts, and visual grounding for contextualizing objects within textual descriptions. By leveraging the power of LVMs, we can gain deeper insights into cultural heritage, enabling better preservation strategies and fostering a richer understanding of our past for future generations. The future holds immense promise for LVMs in this domain, with potential applications in automating restoration processes, identifying damage at an early stage, uncovering hidden stories from historical artifacts, and creating engaging, interactive experiences for wider audiences."
-  Time:
-  Presenter:
+- Title: <b>(First Keynote)</b> "From Pixels to Preservation: The Power of Large Vision Models in Heritage Content Understanding"
+  Time: 09.15 - 10.05
+  Presenter: Jing Zhang
   Is_paper: false
   Whole_line: false
   #
-- Title: <b>(KeyNote 2)</b> "God or the devil are in the details too. Reusing 3D digital resources for cultural heritage research."
-  Time: TBA
-  Presenter: Dr. Vera Moitinho de Almeida
+- Title: <b>(Oral)</b> "Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris"
+  Time: 10.05 - 10.30
+  Presenter: Laura Willot
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>ACM MM Break</b>
+  Time: 10.30 - 11.00
+  Presenter: 
+  Is_paper: false
+  Whole_line: true
+  #
+- Title: <b>(Poster)</b> "4D Geo Modelling from Different Sources at Large Scale"
+  Time: 11.00 - 11.15
+  Presenter: TBA
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: <b>(Oral)</b> "Scene Classification on Fine Arts with Style Transfer"
+  Time: 11.15 - 11.40
+  Presenter: TBA
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: <b>(Poster)</b> "Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism"
+  Time: 11.40 - 11.55
+  Presenter: TBA
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>ACM MM Lunch Break</b> 
+  Time: 12.30 - 14.00
+  Presenter: 
+  Is_paper: false
+  Whole_line: true
+  # 
+- Title: <b>(Second Keynote)</b> "God or the Devil are in the Details Too. Reusing 3D Digital Resources for Cultural Heritage Research"
+  Time: 14.00 - 14.50
+  Presenter: Vera Moitinho de Almeida
   Is_paper: false
   Whole_line: false
   #
-- Title: <b>(Abstract 2)</b> "In material cultural heritage research practice, little attention seems to have been given to the digital data lifecycle. And, although often mentioned, to making research data actually FAIR (Findable, Accessible, Interoperable, Reusable; Wilkinson et al., 2016). In this talk, I will showcase an investigation on archaeological Greek and Cypriot pottery (c. 10th-4th BCE), with a strong emphasis on 3D digital resources. The objectives are manifold, namely - to understand the chronological and geographical variability of their production, use, and shape; as well as to enable conservation studies and monitoring. However, despite the considerable amount of 3D models of archaeological objects available online and elsewhere, I will demonstrate some of the barriers encountered to reusing them and proceeding with this investigation. This presentation tackles issues related to digital repositories and archives, quality and trust of 3D digital resources, contextual and useful metadata for research (including paradata), and data incompleteness. Knowing that although a resource cannot and need not be fully described, it can be better described."
-  Time:
-  Presenter:
+- Title: <b>(Oral)</b> "Hand Gesture Recognition in Buddhist Art Images: Evaluation of a Keypoint-based Approach"
+  Time: 14.50 - 15.15
+  Presenter: Li Weng
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>ACM MM Break</b> 
+  Time: 15.30 - 16.00
+  Presenter: 
   Is_paper: false
+  Whole_line: true
+  # 
+- Title: <b>(Poster)</b> "Understanding User Engagement in Museum TikTok Videos by Exploring Multimodal Cues"
+  Time: 16:00 - 16:15
+  Presenter: TBA
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>(Oral)</b> "Historical Postcards Retrieval through Vision Foundation Models"
+  Time: 16:15-16:40
+  Presenter: TBA
+  Is_paper: true
   Whole_line: false
   #
-# - Title: "Spatially Localised Immersive Contemporary and Historic Photo Presentation on Mobile Devices in Augmented Reality"
-#   Time: 09.35 - 10.00
-#   Presenter: Loris Sauter
-#   Is_paper: true
-#   Whole_line: false
-#   #
-# - Title: <b>Coffee Break</b>
-#   Time: 10.00 - 10.30
-#   Presenter: 
-#   Is_paper: false
-#   Whole_line: true
-#   # 
-# - Title: '"Do touch!" - 3D Scanning and Printing Technologies for the Haptic Representation of Cultural Assets: A Study with Blind Target Users'
-#   Time: 10.30 - 10.55
-#   Presenter: Anika Spiesberger
-#   Is_paper: true
-#   Whole_line: false
-#   #
-# - Title: "SniffyArt: The Dataset of Smelling Persons"
-#   Time: 10.55 - 11.20
-#   Presenter: Mathias Zinnen
-#   Is_paper: true
-#   Whole_line: false
-#   #
-# - Title: <b>Lunch Break</b>
-#   Time: 11.20 - 13.00
-#   Presenter: 
-#   Is_paper: false
-#   Whole_line: true
-#   # 
-# - Title: <b>(KeyNote Talk)</b> Opportunities and Challenges in digitally transforming World Heritage at 50+ years
-#   Time: 13.00 - 13.50
-#   Presenter: Mario Santana Quintero
-#   Is_paper: false
-#   Whole_line: false
-#   # 
-# - Title: "Why Don't You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation"
-#   Time: 13.50 - 14.15
-#   Presenter: Matteo Zaramella
-#   Is_paper: true
-#   Whole_line: false
-#   #
-# - Title: "Latent Wander: an Alternative Interface for Interactive and Serendipitous Discovery of Large AV Archives"
-#   Time: 14.15 - 14.40
-#   Presenter: Yuchen Yang
-#   Is_paper: true
-#   Whole_line: false
-#   # 
-# - Title: <b>Award Ceremony and Wrap-Up</b> 
-#   Time: 14.40 - 15.15
-#   Presenter: SUMAC Chairs
-#   Is_paper: false
-#   Whole_line: false
-#   # 
-# - Title: "Beyond Built Year Prediction: The Bag of Time Model and a Case Study of Buddha Images"
-#   Time: (Poster)
-#   Presenter: Li Weng
-#   Is_paper: true
-#   Whole_line: false
-#   # 
-# - Title: "Clustering for the Analysis and Enrichment of Corpus of Images for the Spatio-temporal Monitoring of Restoration Sites"
-#   Time: (Poster)
-#   Presenter: Laura Willot
-#   Is_paper: true
-#   Whole_line: false
-#   #
+- Title: <b>SUMAC Break</b>
+  Time: 16:40-16:55
+  Whole_line: true 
+  #
+- Title: <b>Award Ceremony and Wrap-Up</b>
+  Time: 16:55 - 17:10
+  Whole_line: true
+  #
+- Title: <b>All workshops end</b>
+  Time: 17:30
+  Whole_line: true
+  #

@@ -163,9 +163,9 @@ IMP NOTES:
 -->
 
 <!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (Melbourne time, 28 Oct / 1 Nov 2024) </h2>
+<h2 class="blackpar_title" id="schedule">Schedule (Melbourne local time, 28 Oct) </h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p> Keynotes: 40 min talk + 10 min Q&A; Orals: 20 min talk + 5 min Q&A</p>
+<p> <b>Keynotes</b>: 40 min talk + 10 min Q&A; <b>Orals</b>: 20 min talk + 5 min Q&A; <b>Posters</b>10 min talk + 3 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include schedule.html %}

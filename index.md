@@ -52,6 +52,7 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
+	<li> <b>[19 Oct, 2024]</b> <a href="index.html#schedule">Schedule Announced</a></li>
 	<li> <b>[20 Aug, 2024]</b> Workshop date announced: 28-Oct, 2024.</li>
 	<li> <b>[10 Aug, 2024]</b><a href="https://2024.acmmm.org/important-dates"> Camera-ready paper deadline and Author registration deadline is 22-August-2024.</a></li>
 	<li> <b>[10 Aug, 2024]</b><a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC"> The paper decisions are released on OpenReview.</a></li>
@@ -165,7 +166,9 @@ IMP NOTES:
 <!-- Schedule -->
 <h2 class="blackpar_title" id="schedule">Schedule (Melbourne local time, 28 Oct) </h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p> <b>Keynotes</b>: 40 min talk + 10 min Q&A; <b>Orals</b>: 20 min talk + 5 min Q&A; <b>Posters</b>10 min talk + 3 min Q&A</p>
+<p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
+<p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
+<p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include schedule.html %}

@@ -1,7 +1,7 @@
 - title: Home
   url: index.html
-# - title: Accepted Papers
-#   url: index.html#accepted_papers
+- title: Accepted Papers
+  url: index.html#accepted_papers
 - title: Overview
   url: index.html#overview
 - title: CfP

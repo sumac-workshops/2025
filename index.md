@@ -52,7 +52,8 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
-	<li> <b>[19 Oct, 2024]</b> <a href="index.html#schedule">Schedule Announced</a></li>
+	<li> <b>[22 Oct, 2024]</b> <a href="index.html#schedule">Schedule Announced</a></li>
+	<li> <b>[22 Oct, 2024]</b> <a href="index.html#accepted_papers">List of Accepted Papers with their links</a></li>
 	<li> <b>[20 Aug, 2024]</b> Workshop date announced: 28-Oct, 2024.</li>
 	<li> <b>[10 Aug, 2024]</b><a href="https://2024.acmmm.org/important-dates"> Camera-ready paper deadline and Author registration deadline is 22-August-2024.</a></li>
 	<li> <b>[10 Aug, 2024]</b><a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC"> The paper decisions are released on OpenReview.</a></li>

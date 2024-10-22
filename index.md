@@ -151,13 +151,13 @@ Accepted Papers
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
-	<li><b>Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism</b> - <em>Andrea Ferracani, Marco Bertini, Pietro Pala, Gabriele Nannotti, Filippo Principi, Giuseppe Becchi</em></li>
-	<li><b>Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris</b> - <em>Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca</em></li>
-	<li><b>Historical Postcards Retrieval through Vision Foundation Models</b> - <em>Anis Amri, Salvatore Tabbone</em></li>
-	<li><b>Scene Classification on Fine-arts with Style Transfer</b> - <em>Haiting Huang, Mathias Zinnen, Shumei Liu, Andreas Maier, Vincent Christlein</em></li>
-	<li><b>4D Geo Modelling from Different Sources at Large Scale</b> - <em>Sander Muenster, Jonas Bruschke, Daniel Dworak, Dávid Komorowicz, Vaibhav Rajan, Dominik Ukolov</em></li>
-	<li><b>Understanding User Engagement in Museum TikTok Videos by Exploring Multimodal Cues</b> - <em>Chek Zi Yan Jane, John See, Jessica Sze Yin Ho, Lau Pei Mey, Padma Pillai</em></li>
-	<li><b>Hand Gesture Recognition in Buddhist Art Images: Evaluation of a Keypoint-based Approach</b> - <em>Li Weng</em></li>
+	<li><b>Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism</b> - <em>Andrea Ferracani, Marco Bertini, Pietro Pala, Gabriele Nannotti, Filippo Principi, Giuseppe Becchi</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689465"> [ACM DL Link]</a></li>
+	<li><b>Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris</b> - <em>Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689473"> [ACM DL Link]</a></li>
+	<li><b>Historical Postcards Retrieval through Vision Foundation Models</b> - <em>Anis Amri, Salvatore Tabbone</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689471"> [ACM DL Link]</a></li>
+	<li><b>Scene Classification on Fine-arts with Style Transfer</b> - <em>Haiting Huang, Mathias Zinnen, Shumei Liu, Andreas Maier, Vincent Christlein</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689468"> [ACM DL Link]</a></li>
+	<li><b>4D Geo Modelling from Different Sources at Large Scale</b> - <em>Sander Muenster, Jonas Bruschke, Daniel Dworak, Dávid Komorowicz, Vaibhav Rajan, Dominik Ukolov</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689466"> [ACM DL Link]</a></li>
+	<li><b>Understanding User Engagement in Museum TikTok Videos by Exploring Multimodal Cues</b> - <em>Chek Zi Yan Jane, John See, Jessica Sze Yin Ho, Lau Pei Mey, Padma Pillai</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689467"> [ACM DL Link]</a></li>
+	<li><b>Hand Gesture Recognition in Buddhist Art Images: Evaluation of a Keypoint-based Approach</b> - <em>Li Weng</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689464"> [ACM DL Link]</a></li>
 </ul>
 </p>
 <br>

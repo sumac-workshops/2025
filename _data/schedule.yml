@@ -23,20 +23,20 @@
   Whole_line: true
   #
 - Title: <b>(Poster)</b> 4D Geo Modelling from Different Sources at Large Scale
-  Time: 11.00 - 11.15
-  Presenter: TBA
+  Time: 11.00 - 11.25
+  Presenter: Sander Münster
   Is_paper: true
   Whole_line: false
   #
 - Title: <b>(Oral)</b> Scene Classification on Fine Arts with Style Transfer
-  Time: 11.15 - 11.40
-  Presenter: TBA
+  Time: 11.25 - 12.00
+  Presenter: Haiting Huang
   Is_paper: true
   Whole_line: false
   #
 - Title: <b>(Poster)</b> Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism
-  Time: 11.40 - 11.55
-  Presenter: TBA
+  Time: 12.00 - 12.15
+  Presenter: Niccolò Biondi
   Is_paper: true
   Whole_line: false
   # 
@@ -66,13 +66,13 @@
   # 
 - Title: <b>(Poster)</b> Understanding User Engagement in Museum TikTok Videos by Exploring Multimodal Cues
   Time: 16:00 - 16:15
-  Presenter: TBA
+  Presenter: John See
   Is_paper: true
   Whole_line: false
   # 
 - Title: <b>(Oral)</b> Historical Postcards Retrieval through Vision Foundation Models
   Time: 16:15-16:40
-  Presenter: TBA
+  Presenter: Anis Amri
   Is_paper: true
   Whole_line: false
   #

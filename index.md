@@ -35,14 +35,15 @@ layout: home
 </div>
 
 <br>
+-->
 
 
-<p style="background-color:#ffcc00;"> <b> Best Paper Award </b> - <em>"Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation" </em> - Matteo Zaramella, Irene Amerini, Paolo Russo.
-<hr  style="color: rgb(212, 110, 0);">
+<p style="background-color:#8ef25c;"> <b> Best Paper Award </b> - <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em> - Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca.
+<hr  style="color: rgb(92, 242, 117);">
 
- News and Updates -->
+<!-- News and Updates -->
 <h2 class="blackpar_title" id="bews">News and Updates</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
 <!--	<li> <b>[2 Nov, 2023]</b> <b>SUMAC 2023 Best Paper Award</b> goes to <em>"Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation" </em> - Matteo Zaramella, Irene Amerini, Paolo Russo.</li>
@@ -52,7 +53,7 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
-	<li> <b>[25 Oct, 2024]</b> Attend SUMAC'24 online. Join us via Zoom <a href="https://univ-eiffel.zoom.us/j/89723157624%7d">here</a> with the passcode: <pre><code>1rGQcxWn</code></pre></li>
+
 	<li> <b>[22 Oct, 2024]</b> <a href="index.html#schedule">Schedule Announced</a></li>
 	<li> <b>[22 Oct, 2024]</b> <a href="index.html#accepted_papers">List of Accepted Papers with their links</a></li>
 	<li> <b>[20 Aug, 2024]</b> Workshop date announced: 28-Oct, 2024.</li>

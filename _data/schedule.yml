@@ -10,7 +10,7 @@
   Is_paper: false
   Whole_line: false
   #
-- Title: <b>(Oral)</b> Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris
+- Title: <b>(Oral)</b> Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris <a href="presentor_slides/Laura_Willot_presentation_DatasetNotreDame.pdf">Slides</a>
   Time: 10.05 - 10.30
   Presenter: Laura Willot
   Is_paper: true

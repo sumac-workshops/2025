@@ -53,6 +53,7 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
+	<li> <b>[19 Dec, 2024]</b> Presentor Slides are now available. Links are provided at the end of the <a href="index.html#schedule">Talk Titles</a></li>
 	<li> <b>[06 Nov, 2024]</b> Best paper award goes to <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em><a href="https://dl.acm.org/doi/10.1145/3689094.3689473"> [ACM DL Link]</a>, presented by <b>Laura Willot</b>
 	<li> <b>[22 Oct, 2024]</b> <a href="index.html#schedule">Schedule Announced</a></li>
 	<li> <b>[22 Oct, 2024]</b> <a href="index.html#accepted_papers">List of Accepted Papers with their links</a></li>

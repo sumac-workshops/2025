@@ -1,2 +1,2 @@
-# 2024
-Official Website of the 6th SUMAC Workshop, Melbourne (Australia), 28 Oct - 1 Nov, 2024
+# 2025
+Official Website of the 7th SUMAC Workshop, Dublin (Ireland), 27 Oct - 31 Oct, 2025

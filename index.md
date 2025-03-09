@@ -110,7 +110,7 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates (tentative)</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
- 	<li>Paper submission: <b>June 13, 2025<a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
+ 	<li>Paper submission: <b>June 13, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
 	<li>Author acceptance notification: July 24, 2025</li>
 	<li>Camera-Ready: August 3, 2025</li>
 	<li>Workshop date: TBA (27 Oct - 28 Oct, 2025)</li>

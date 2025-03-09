@@ -37,9 +37,10 @@ layout: home
 <br>
 -->
 
-
+<!--
 <p style="background-color:#8ef25c;"> <b> Best Paper Award </b> - <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em> - Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca.
 <hr  style="color: rgb(92, 242, 117);">
+-->
 
 <!-- News and Updates -->
 <h2 class="blackpar_title" id="bews">News and Updates</h2>
@@ -64,9 +65,10 @@ layout: home
 	<li> <b>[24 June, 2024]</b> <a href="index.html#speakers">Keynote Speakers Announced</a></li>
 	<li> <b>[24 June, 2024]</b> <a href="index.html#program_committee">Program Comittee Announced</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
-	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide"> ---> Submissions Guidelines.</a></li>
-	<li> <b>[7 May, 2024]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li> 
-	-->
+	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
+-->
+	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li> 
+	
 </ul>
 </p>
 <br>

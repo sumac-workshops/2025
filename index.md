@@ -12,7 +12,7 @@ layout: home
 		<h2 class="blackpar_title">SUMAC 2025</h2>
 		<h3 class="blackpar_title"> 7<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2024.acmmm.org/"> ACM Multimedia 2025 </a><br> 27 Oct, 2025, Dublin, Ireland (On-Site) </b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2025.acmmm.org/"> ACM Multimedia 2025 </a><br> 27 Oct, 2025, Dublin, Ireland (On-Site) </b></h5>
 			<!-- <br> Attendance Mode: <u>TBA</u>  (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
@@ -67,7 +67,7 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
-	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li> 
+	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2025/">Website Launched!</a></li> 
 	
 </ul>
 </p>
@@ -110,22 +110,22 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
-	<li>Paper submission: <b><s>July 19</s> 12.59 PM, July 24, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
+<!-- 	<li>Paper submission: <b><s>July 19</s> 12.59 PM, July 24, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
 	<li>Author acceptance notification: August 5, 2025</li>
 	<li>Camera-Ready: August 19, 2025</li>
-	<li>Workshop date: TBA (27 Oct - 28 Oct, 2025)</li>
+	<li>Workshop date: TBA (27 Oct - 28 Oct, 2025)</li> -->
 </ul>
 <br>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted: a) 4 pages plus 1-page reference (short paper); or b) 8 pages plus up to 2-page reference (full paper). They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2024 <a href="https://2024.acmmm.org/regular-papers"> (https://2024.acmmm.org/regular-papers)</a>.
+<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted: a) 4 pages plus 1-page reference (short paper); or b) 8 pages plus up to 2-page reference (full paper). They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2024 <a href="https://2025.acmmm.org/regular-papers"> (https://2025.acmmm.org/regular-papers)</a>.
 </p>
 
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p>
 
-<p><b>Profile Registration</b> Openreview (submissions' portal) requires a profile with OpenReview.
+<!-- <p><b>Profile Registration</b> Openreview (submissions' portal) requires a profile with OpenReview.
 </p>
 IMP NOTES:
 <ul>
@@ -133,7 +133,7 @@ IMP NOTES:
 	<li> New profiles created with an institutional email will be activated automatically.</li>
 </ul>
 <p><b>Submissions' Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC</a>
-</p><br>
+</p><br> -->
 
 <!-- Special Highlights -->
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
@@ -145,32 +145,33 @@ IMP NOTES:
 <br>
 
 <!--Confirmed Speakers-->
-<h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
+<!-- <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include speakers.html %}
 </p>
-<br>
+<br> -->
 
 
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
-	<li><b>Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism</b> - <em>Andrea Ferracani, Marco Bertini, Pietro Pala, Gabriele Nannotti, Filippo Principi, Giuseppe Becchi</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689465"> [ACM DL Link]</a></li>
+<!-- 	<li><b>Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism</b> - <em>Andrea Ferracani, Marco Bertini, Pietro Pala, Gabriele Nannotti, Filippo Principi, Giuseppe Becchi</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689465"> [ACM DL Link]</a></li>
 	<li><b>Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris</b> - <em>Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689473"> [ACM DL Link]</a></li>
 	<li><b>Historical Postcards Retrieval through Vision Foundation Models</b> - <em>Anis Amri, Salvatore Tabbone</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689471"> [ACM DL Link]</a></li>
 	<li><b>Scene Classification on Fine-arts with Style Transfer</b> - <em>Haiting Huang, Mathias Zinnen, Shumei Liu, Andreas Maier, Vincent Christlein</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689468"> [ACM DL Link]</a></li>
 	<li><b>4D Geo Modelling from Different Sources at Large Scale</b> - <em>Sander Muenster, Jonas Bruschke, Daniel Dworak, Dávid Komorowicz, Vaibhav Rajan, Dominik Ukolov</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689466"> [ACM DL Link]</a></li>
 	<li><b>Understanding User Engagement in Museum TikTok Videos by Exploring Multimodal Cues</b> - <em>Chek Zi Yan Jane, John See, Jessica Sze Yin Ho, Lau Pei Mey, Padma Pillai</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689467"> [ACM DL Link]</a></li>
-	<li><b>Hand Gesture Recognition in Buddhist Art Images: Evaluation of a Keypoint-based Approach</b> - <em>Li Weng</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689464"> [ACM DL Link]</a></li>
+	<li><b>Hand Gesture Recognition in Buddhist Art Images: Evaluation of a Keypoint-based Approach</b> - <em>Li Weng</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689464"> [ACM DL Link]</a></li> -->
 </ul>
 </p>
 <br>
 
 
 <!-- Schedule -->
-<h2 class="blackpar_title" id="schedule">Schedule (Melbourne local time, 28 Oct) </h2>
+
+<!-- <h2 class="blackpar_title" id="schedule">Schedule (Melbourne local time, 28 Oct) </h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
@@ -179,7 +180,7 @@ IMP NOTES:
 <p>
 {% include schedule.html %}
 </p>
-<br>
+<br> -->
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>

@@ -12,7 +12,7 @@ layout: home
 		<h2 class="blackpar_title">SUMAC 2025</h2>
 		<h3 class="blackpar_title"> 7<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2025.acmmm.org/"> ACM Multimedia 2025 </a><br> 27 Oct, 2025, Dublin, Ireland (On-Site) </b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://acmmm2025.org/"> ACM Multimedia 2025 </a><br> 27 Oct, 2025, Dublin, Ireland (On-Site) </b></h5>
 			<!-- <br> Attendance Mode: <u>TBA</u>  (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
@@ -119,7 +119,7 @@ layout: home
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted: a) 4 pages plus 1-page reference (short paper); or b) 8 pages plus up to 2-page reference (full paper). They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2024 <a href="https://2025.acmmm.org/regular-papers"> (https://2025.acmmm.org/regular-papers)</a>.
+<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted: a) 4 pages plus 1-page reference (short paper); or b) 8 pages plus up to 2-page reference (full paper). They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2025 <a href="https://acmmm2025.org/information-for-authors/"> (https://acmmm2025.org/information-for-authors/)</a>.
 </p>
 
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.

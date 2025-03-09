@@ -9,10 +9,10 @@ layout: home
 ---
 <div style="font-family: 'Source Sans', sans-serif; background: url('images/front_photo_melbourne.jpg') no-repeat; background-size: cover; user-select: none;">
 	<center>
-		<h2 class="blackpar_title">SUMAC 2024</h2>
-		<h3 class="blackpar_title"> 6<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
+		<h2 class="blackpar_title">SUMAC 2025</h2>
+		<h3 class="blackpar_title"> 7<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2024.acmmm.org/"> ACM Multimedia 2024 </a><br> 28 Oct, 2024, Melbourne, Australia (On-Site) </b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2024.acmmm.org/"> ACM Multimedia 2025 </a><br> 27 Oct, 2025, Dublin, Ireland (On-Site) </b></h5>
 			<!-- <br> Attendance Mode: <u>TBA</u>  (Ballroom C) and <b>Virtual</b> </h3> -->
 	</center>
 </div>
@@ -53,7 +53,7 @@ layout: home
 	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
 	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
 -->
-	<li> <b>[19 Dec, 2024]</b> Presentor Slides are now available. Links are provided at the end of the <a href="index.html#schedule">Talk Titles</a></li>
+<!-- 	<li> <b>[19 Dec, 2024]</b> Presentor Slides are now available. Links are provided at the end of the <a href="index.html#schedule">Talk Titles</a></li>
 	<li> <b>[06 Nov, 2024]</b> Best paper award goes to <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em><a href="https://dl.acm.org/doi/10.1145/3689094.3689473"> [ACM DL Link]</a>, presented by <b>Laura Willot</b>
 	<li> <b>[22 Oct, 2024]</b> <a href="index.html#schedule">Schedule Announced</a></li>
 	<li> <b>[22 Oct, 2024]</b> <a href="index.html#accepted_papers">List of Accepted Papers with their links</a></li>
@@ -65,14 +65,15 @@ layout: home
 	<li> <b>[24 June, 2024]</b> <a href="index.html#program_committee">Program Comittee Announced</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide"> ---> Submissions Guidelines.</a></li>
-	<li> <b>[7 May, 2024]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li>
+	<li> <b>[7 May, 2024]</b> <a href="https://sumac-workshops.github.io/2024/">Website Launched!</a></li> 
+	-->
 </ul>
 </p>
 <br>
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p> The sixth version of the SUMAC (analySis, Understanding and proMotion of heritAge Contents) workshop, like its predecessors, focuses on analyzing, processing and valorizing all types of data related to cultural heritage, including tangible and intangible heritage. As stated by UNESCO, cultural heritage provides societies with a wealth of resources inherited from the past, created in the present for the benefit of future generations. </p>
+<p> The seventh version of the SUMAC (analySis, Understanding and proMotion of heritAge Contents) workshop, like its predecessors, focuses on analyzing, processing and valorizing all types of data related to cultural heritage, including tangible and intangible heritage. As stated by UNESCO, cultural heritage provides societies with a wealth of resources inherited from the past, created in the present for the benefit of future generations. </p>
 
 <p> Digital heritage data acquired are naturally massive and address a large diversity of monomodal modalities (text, structured referentials, image, video, 3D, music, sensor data). Their processing and promotion put into light several scientific challenges as well as various new use cases that are of topical interest today for the ACM Multimedia community, both for academics and industries. Like in the previous editions, we will strive to value the sharing of knowledge, algorithms and experiments; and also open source software and open data, by encouraging the submission of articles that promote this sharing policy. </p>
 <p> Abundant heritage data is available in the most recent years. Older data, that can be called the big data of the past, are mostly locked -- they currently remain largely “hidden” from the public, in galleries, libraries, archives, museums or data producers' infrastructures. Processing heritage data to increase their visibility will act as a game changer and contribute to a large panel of communities, by enabling an outstanding pool of inter-operable data, not only as a service to citizens but also to public or private actors, by challenging the research methods at the crossing of computer science, artificial intelligence and digital humanities. </p>
@@ -107,10 +108,10 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
-	<li>Paper submission: <b><s>July 19</s> 12.59 PM, July 24, 2024 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
-	<li>Author acceptance notification: August 5, 2024</li>
-	<li>Camera-Ready: August 19, 2024</li>
-	<li>Workshop date: TBA (28 Oct - 1 Nov, 2024)</li>
+	<li>Paper submission: <b><s>July 19</s> 12.59 PM, July 24, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
+	<li>Author acceptance notification: August 5, 2025</li>
+	<li>Camera-Ready: August 19, 2025</li>
+	<li>Workshop date: TBA (27 Oct - 28 Oct, 2025)</li>
 </ul>
 <br>
 

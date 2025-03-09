@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/ireland.jpg') no-repeat; background-size: 80% contain; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/ireland.jpg') no-repeat; background-size: 100% 100%; user-select: none;">
 	<center>
 		<h2 class="blackpar_title">SUMAC 2025</h2>
 		<h3 class="blackpar_title"> 7<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>

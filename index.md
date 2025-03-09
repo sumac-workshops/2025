@@ -7,12 +7,14 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/ireland-1.jpg') no-repeat; background-size: cover; user-select: none; margin-bottom: 10%">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/ireland.jpg') no-repeat; background-size: cover; user-select: none;">
 	<center>
+		<p></p>
 		<h2 class="blackpar_title">SUMAC 2025</h2>
 		<h3 class="blackpar_title"> 7<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://acmmm2025.org/"> ACM Multimedia 2025 </a><br> 27 Oct, 2025, Dublin, Ireland (On-Site)</b></h5>	
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://acmmm2025.org/"> ACM Multimedia 2025 </a><br> 27 Oct, 2025, Dublin, Ireland (On-Site)</b></h5>
+		<p></p>	
 	</center>
 </div>
 <br>

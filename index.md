@@ -204,7 +204,7 @@ IMP NOTES:
 <div class="row">
 	<div class="col">
 		<center>
-			<a href="https://ign.fr/"> <img src="images/logo_AGAPE.png" width="200px"> </a>
+			<a href="https://ign.fr/"> <img src="images/logo_AGAPE.png" width="150px"> </a>
 		</center>
 	</div>
 	<div class="col">

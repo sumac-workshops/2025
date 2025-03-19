@@ -13,7 +13,7 @@ layout: home
 		<h2 class="blackpar_title">SUMAC 2025</h2>
 		<h3 class="blackpar_title"> 7<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://acmmm2025.org/"> ACM Multimedia 2025 </a><br> 27 Oct, 2025, Dublin, Ireland (On-Site)</b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://acmmm2025.org/"> ACM Multimedia 2025 </a><br> 27/28 Oct, 2025, Dublin, Ireland (On-Site)</b></h5>
 		<br><br>	
 	</center>
 </div>
@@ -114,7 +114,7 @@ layout: home
  	<li>Paper submission: <b>June 13, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
 	<li>Author acceptance notification: July 24, 2025</li>
 	<li>Camera-Ready: August 3, 2025</li>
-	<li>Workshop date: TBA (27 Oct - 28 Oct, 2025)</li>
+	<li>Workshop date: TBA (27/28 Oct, 2025)</li>
 </ul>
 <br>
 
@@ -187,7 +187,7 @@ IMP NOTES:
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
-{% include program_committee.html %}
+<!-- {% include program_committee.html %} -->
 </p>
 <br>
 
@@ -204,17 +204,17 @@ IMP NOTES:
 <div class="row">
 	<div class="col">
 		<center>
-			<a href="https://ign.fr/"> <img src="images/ign.png" width="250px"> </a>
+			<a href="https://ign.fr/"> <img src="images/logo_AGAPE.png" width="200px"> </a>
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<a href="https://www.timemachine.eu/"> <img src="images/TM-logo.png" width="320px"> </a>
+			<a href="https://www.timemachine.eu/"> <img src="images/TM-logo.png" width="256px"> </a>
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<a href="http://www.zfc.edu.cn/"> <img src="images/logo_zfc.png" width="150px"> </a>
+			<a href="http://www.zfc.edu.cn/"> <img src="images/logo_zfc.png" width="120px"> </a>
 		</center>
 	</div>
 </div>

@@ -226,7 +226,9 @@ IMP NOTES:
 	</div>
 	<div class="col">
 		<center>
-		<div class="row" style="height: 25%;"></div>
+		<div class="row">
+			<img src="images/logo_ITAM.png" width="120px">
+		</div>
 		<div class="row">
 			<a href="https://www.itam.mx/"> <img src="images/logo_ITAM-1.png" width="120px"> </a>
 		</div>

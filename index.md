@@ -225,16 +225,8 @@ IMP NOTES:
 		</center>
 	</div>
 	<div class="col">
-		<center>
-		<div class="row">
-			<img src="images/logo_ITAM.png" width="60px">
-		</div>
-		<div class="row">
-			<a href="https://www.itam.mx/"> <img src="images/logo_ITAM-1.png" width="120px"> </a>
-		</div>
-		<div class="row">
-			<img src="images/logo_ITAM.png" width="60px">
-		</div>
+		<center>		
+			<a href="https://www.itam.mx/"> <img src="images/logo_ITAM-2.png" width="120px"> </a>
 		</center>
 	</div>
 	<div class="col">

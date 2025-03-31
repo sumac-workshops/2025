@@ -214,6 +214,11 @@ IMP NOTES:
 	</div>
 	<div class="col">
 		<center>
+			<a href="https://www.itam.mx/"> <img src="images/logo_itam.png" width="120px"> </a>
+		</center>
+	</div>
+	<div class="col">
+		<center>
 			<a href="http://www.zfc.edu.cn/"> <img src="images/logo_zfc.png" width="120px"> </a>
 		</center>
 	</div>

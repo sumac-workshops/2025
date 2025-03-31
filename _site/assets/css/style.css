@@ -116,7 +116,7 @@
 
 .highlight .il { color: #099; }
 
-.blackpar_title { font-weight: bold; color: black; align-items: center;}
+.blackpar_title { font-weight: bold; color: black; display: flex; align-items: center;}
 
 .par_title { font-weight: bold; color: #c90c0c; }
 

@@ -199,6 +199,18 @@ IMP NOTES:
 </p>
 <br>
 
+
+
+<style>
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+</style>
+
 <h2 class="blackpar_title">Sponsors</h2>
 <hr>
 <div class="row">
@@ -214,7 +226,9 @@ IMP NOTES:
 	</div>
 	<div class="col">
 		<center>
-			<a href="https://www.itam.mx/"> <img align="middle" src="images/logo_ITAM-1.png" width="120px"> </a>
+		<div class="vertical-center">
+			<a href="https://www.itam.mx/"> <img src="images/logo_ITAM-1.png" width="120px"> </a>
+		</div>
 		</center>
 	</div>
 	<div class="col">

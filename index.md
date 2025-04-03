@@ -126,15 +126,15 @@ layout: home
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p>
 
-<!-- <p><b>Profile Registration</b> Openreview (submissions' portal) requires a profile with OpenReview.
+<p><b>Profile Registration</b> A registered profile at OpenReview (submissions' portal) is required to submit a paper.
 </p>
 IMP NOTES:
 <ul>
 	<li> New profiles created without an institutional email will go through a moderation process that can take up to two weeks.</li>
 	<li> New profiles created with an institutional email will be activated automatically.</li>
 </ul>
-<p><b>Submissions' Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC</a>
-</p><br> -->
+<p><b>Submissions' Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/SUMAC</a>
+</p><br>
 
 <!-- Special Highlights -->
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>

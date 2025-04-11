@@ -113,7 +113,7 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
  	<li>Paper submission: <b><del>June 13</del> July 11, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
-	<li>Author acceptance notification: <del> July 24</del>August 1, 2025</li>
+	<li>Author acceptance notification: <del>July 24</del> August 1, 2025</li>
 	<li>Camera-Ready: <del>August 3</del> August 11, 2025</li>
 	<li>Workshop date: TBA (27/28 Oct, 2025)</li>
 </ul>

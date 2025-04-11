@@ -70,7 +70,7 @@ layout: home
 -->
 	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2025/">Website Launched!</a></li>
 	<li> <b>[3 April, 2025]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/SUMAC">Submission site is open!</a></li> 
-	<li><b>[11 April, 2025]</b>Deadlines extended.</li>
+	<li><b>[11 April, 2025]</b> Deadlines extended.</li>
 </ul>
 </p>
 <br>
@@ -112,9 +112,9 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates (tentative)</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
- 	<li>Paper submission: <b><del>June 13</del>July 11, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
-	<li>Author acceptance notification: <del>July 24</del>August 1, 2025</li>
-	<li>Camera-Ready: <del>August 3</del>August 11, 2025</li>
+ 	<li>Paper submission: <b><del>June 13</del> July 11, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
+	<li>Author acceptance notification: <del> July 24</del>August 1, 2025</li>
+	<li>Camera-Ready: <del>August 3</del> August 11, 2025</li>
 	<li>Workshop date: TBA (27/28 Oct, 2025)</li>
 </ul>
 <br>
@@ -232,7 +232,7 @@ IMP NOTES:
 	</div>
 	<div class="col">
 		<center>		
-			<a href="https://www.itam.mx/"> <img src="images/logo_ITAM-verde-1.png" width="120px"> </a>
+			<a href="https://www.itam.mx/"> <img src="images/logo-ITAM-verde-1.png" width="120px"> </a>
 		</center>
 	</div>
 	<div class="col">

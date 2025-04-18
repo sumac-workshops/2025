@@ -222,7 +222,7 @@ IMP NOTES:
 <div class="row">
 	<div class="col">
 		<center>
-			<a href="https://ign.fr/"> <img src="images/logo_AGAPE.png" width="130px"> </a>
+			<a href="https://agape-anr.github.io/"> <img src="images/logo_AGAPE.png" width="130px"> </a>
 		</center>
 	</div>
 	<div class="col">

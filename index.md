@@ -152,12 +152,12 @@ IMP NOTES:
 <br>
 
 <!--Confirmed Speakers-->
-<!-- <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
+<h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include speakers.html %}
 </p>
-<br> -->
+<br>
 
 
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>

@@ -1,17 +1,16 @@
 - num_row: 1
   speakers:
-    - name: Jing Zhang
+    - name: Johan Oomen
       title: Dr.
-      affiliation: School of Computer Science, The University of Sydney
-      photo: jing_zhang.jpeg
-      url: https://scholar.google.com/citations?user=9jH5v74AAAAJ
-      bio: "Dr. Jing Zhang is currently a Research Fellow at the School of Computer Science, Faculty of Engineering, University of Sydney. His research focuses on computer vision and deep learning, with over 100 CORE A* ranked publications in prestigious journals and conferences such as CVPR, ICCV, NeurIPS, ACM Multimedia, IEEE TPAMI, and IJCV. His work has garnered more than 8,000 citations according to Google Scholar. Dr. Zhang is an Area Chair for ICPR, a Senior Program Committee Member for AAAI and the IJCAI, and a guest editor for a special issue on IEEE Transactions on Big Data. He is also a regular reviewer for several leading journals and conferences. In 2023, he was promoted to IEEE Senior Member and was listed among the World’s Top 2% Scientists by Stanford University in 2022 and 2023.
-            Dr. Zhang's groundbreaking work centers on the ViTAE series of foundation models, marking a significant advancement in vision transformers. These models incorporate convolutional biases to enhance representation capabilities and have reached an impressive 1 billion parameters. The ViTAE-H model achieved a remarkable 91.2% top-1 accuracy, outperforming industry giants like Google and Meta. He also developed ViTPose, a 1 billion-parameter pose estimation model, shows great promise for applications in human and animal behavior analysis. His contributions have significantly impacted various image-related tasks and earned widespread recognition in both academia and industry. His commitment to open-source code on GitHub has fostered collaboration, amassing over 5000 stars."
+      affiliation: Netherlands Institute for Sound & Vision, The Netherlands
+      photo: johan-oomen.jpg
+      url: https://www.beeldengeluid.nl/en/knowledge/experts/johan-oomen
+      bio: "Johan Oomen works at the Netherlands Institute for Sound & Vision as manager of the department Research and Heritage. He is also a researcher at the “User Centric Data Science” research group at VU University. Besides that, he is secretary of the PublicSpaces foundation, co-initiator of the Culture and Media workgroup within the National AI Coalition and chairman of the EUscreen Foundation. Johan Oomen is a member of the National Heritage Research Council, the NDE domain group 'Usable' and the advisory board of the Europeana Foundation."
 - num_row: 2
   speakers:
-    - name: Vera Moitinho de Almeida
+    - name: Diego Jiménez Badillo
       title: Dr.
-      affiliation: Centre for Digital Culture and Innovation, Faculty of Arts and Humanities, University of Porto
-      photo: vera_moitinho.jpeg
-      url: https://www.researchgate.net/profile/Vera-Moitinho
-      bio: "Vera Moitinho de Almeida is a senior researcher and coordinator of the Centre of Digital Culture and Innovation (CODA) at the Faculty of Arts & Humanities of the University of Porto (FLUP), a member of CITCEM-UP and INESCC-UC, and an honorary senior research collaborator at LAQU-UAB. She has an unusual interdisciplinary academic background: a PhD (cum laude) from UAB, focusing on technological and functional analysis of archaeological objects using 3D digital models and reverse engineering processes; an MSc in Prehistoric Archaeology (UAB); an interdisciplinary MSc (cum laude) in Multimedia Technologies (FEUP); and a BA in Fine Arts (IPC), with a major in pedagogy, while having attended several courses in distinct fields. Her research expertise consists of three intertwined subjects: 1) 2D/3D digital imaging and visualizations for research and conservation of cultural heritage materials; 2) Computational archaeology; 3) Digital data lifecycle and FAIR principles. She has been actively involved in several international transdisciplinary scientific projects and has published extensively in the field of digital applications to research in archaeology, cultural heritage, and the digital humanities."
+      affiliation: Instituto Nacional de Antropología e Historia, Mexico
+      photo: diego-jimenez.jpg
+      url: https://inah.academia.edu/DiegoJimenez/CurriculumVitae
+      bio: "One of the pioneers in the field of Computational Humanities in Mexico who combines his expertise in Mexican Colonial History, Mesoamerican Archaeology, Computer Science and Geographical Information Systems to develop methodologies for the analysis and dissemination of cultural heritage. One of his main research areas is the application of 3D computer vision and machine learning techniques to automate the recognition, retrieval and classification of archaeological objects, particularly from Aztec repositories. Currently collaborates in a Digital Humanities project focused on data mining of texts and pictorial documents from sixteenth century New Spain."

@@ -71,6 +71,7 @@ layout: home
 	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2025/">Website Launched!</a></li>
 	<li> <b>[3 April, 2025]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/SUMAC">Submission site is open!</a></li> 
 	<li><b>[11 April, 2025]</b> Deadlines extended.</li>
+	<li><b>[26 May, 2025]</b> Keynote info updated.</li>
 </ul>
 </p>
 <br>

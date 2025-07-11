@@ -68,7 +68,7 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
-	<li> <b>[11 July, 2025]</b> Short date extension! Up to 14 July</li>
+	<li> <b>[11 July, 2025]</b> Short deadline extension! Up to 14 July</li>
 	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2025/">Website Launched!</a></li>
 	<li> <b>[3 April, 2025]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/SUMAC">Submission site is open!</a></li> 
 	<li><b>[11 April, 2025]</b> Deadlines extended.</li>
@@ -114,7 +114,7 @@ layout: home
 <h2 class="blackpar_title" id="imp_dates">Important dates (tentative)</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
- 	<li>Paper submission: <b><del>June 13</del> July 11, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
+ 	<li>Paper submission: <b><del>June 13</del> <del>July 11</del> July 14, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
 	<li>Author acceptance notification: <del>July 24</del> August 1, 2025</li>
 	<li>Camera-Ready: <del>August 3</del> August 11, 2025</li>
 	<li>Workshop date: Oct. 27, 2025</li>

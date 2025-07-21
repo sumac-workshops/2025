@@ -20,7 +20,6 @@ layout: home
 <br>
 
 
-
 <!--
 <p style="background-color:#8ef25c;"> <b> Best Paper Award </b> - <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em> - Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca.
 <hr  style="color: rgb(92, 242, 117);">

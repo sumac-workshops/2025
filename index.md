@@ -20,23 +20,6 @@ layout: home
 <br>
 
 
-<!--
-<div class="alert alert-danger" role="alert">
-  <h4>Mentoring sessions announcement</h4>
-  <p>
-  The deadline for submitting papers to our second version of the Efficient Natural Language and Speech Processing (ENLSP-II) workshop is 25th of September. For that we will be scheduling two mentioring online sessions to answer your questions. Please join us:
-  <br>
-  <ul>
-	<li>Tuesday the 6th of September 2022 from 10PM to 11PM (UTC-04:00)</li>
-	<li>Wednesday the 7th of September 2022 from 9AM to 10AM (UTC-04:00)</li>
-	<li>Tuesday the 13th of September 2022 from 10PM to 11PM (UTC-04:00): <a href="https://welink.zhumu.com/j/134854021">link</a></li>
-	<li>Wednesday the 14th of September 2022 from 9AM to 10AM (UTC-04:00): <a href="https://welink.zhumu.com/j/130263276">link</a></li>
-  </ul>
-  </p>
-</div>
-
-<br>
--->
 
 <!--
 <p style="background-color:#8ef25c;"> <b> Best Paper Award </b> - <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em> - Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca.

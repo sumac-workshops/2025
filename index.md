@@ -48,13 +48,6 @@ layout: home
 <hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
-<!--	<li> <b>[2 Nov, 2023]</b> <b>SUMAC 2023 Best Paper Award</b> goes to <em>"Why Don’t You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation" </em> - Matteo Zaramella, Irene Amerini, Paolo Russo.</li>
-	<li> <b>[1 Nov, 2023]</b> The <b>D-day</b> is almost here & we are excited to meet you all tomorrow - <b>2 Nov, 2023</b><a href="index.html#schedule"> [Schedule]</a></li>
-	<li> <b>[18 Oct, 2023]</b> <a href="index.html#schedule">Workshop Schedule Announced!</a></li>
-	<li> <b>[20 July, 2023]</b> <a href="index.html#imp_dates">Important dates further extended</a></li>
-	<li> <b>[18 July, 2023]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2023/Workshop/SUMAC">Submission deadline extended to 27 July</a><li>
-	<li> <b>[28 June, 2023]</b> <a href="index.html#speakers">Keynotes</a> & <a href="index.html#program_committee">Program Committee Announced</a></li>
--->
 <!-- 	<li> <b>[19 Dec, 2024]</b> Presentor Slides are now available. Links are provided at the end of the <a href="index.html#schedule">Talk Titles</a></li>
 	<li> <b>[06 Nov, 2024]</b> Best paper award goes to <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em><a href="https://dl.acm.org/doi/10.1145/3689094.3689473"> [ACM DL Link]</a>, presented by <b>Laura Willot</b>
 	<li> <b>[22 Oct, 2024]</b> <a href="index.html#schedule">Schedule Announced</a></li>
@@ -115,8 +108,8 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
  	<li>Paper submission: <b><del>June 13</del> <del>July 11</del> July 14, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
-	<li>Author acceptance notification: <del>July 24</del> August 1, 2025</li>
-	<li>Camera-Ready: <del>August 3</del> August 11, 2025</li>
+	<li>Author acceptance notification: <del>July 24</del> August 4, 2025</li>
+	<li>Camera-Ready: <del>August 3</del> August 25, 2025</li>
 	<li>Workshop date: Oct. 27, 2025</li>
 </ul>
 <br>

@@ -26,7 +26,7 @@ layout: home
 -->
 
 <!-- News and Updates -->
-<h2 class="blackpar_title" id="bews">News and Updates</h2>
+<h2 class="blackpar_title" id="news">News and Updates</h2>
 <hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>

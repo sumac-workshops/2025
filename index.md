@@ -92,7 +92,7 @@ layout: home
 <ul>
  	<li>Paper submission: <b><del>June 13</del> <del>July 11</del> July 14, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
 	<li>Author acceptance notification: <del>July 24</del> August 4, 2025</li>
-	<li>Camera-Ready: <del>August 3</del> August 22, 2025</li>
+	<li>Camera-Ready: <del>August 3</del> August 20, 2025</li>
 	<li>Workshop date: Oct. 27, 2025</li>
 </ul>
 <br>

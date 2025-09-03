@@ -159,8 +159,6 @@ IMP NOTES:
 	<li> <i>An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing</i> - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri</li>
 	<li> <i>Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal</i> - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto </li>
 </ul>
-</ul>
-</p>
 <br>
 
 

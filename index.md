@@ -143,14 +143,25 @@ IMP NOTES:
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
-<!-- 	<li><b>Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism</b> - <em>Andrea Ferracani, Marco Bertini, Pietro Pala, Gabriele Nannotti, Filippo Principi, Giuseppe Becchi</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689465"> [ACM DL Link]</a></li>
-	<li><b>Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris</b> - <em>Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689473"> [ACM DL Link]</a></li>
-	<li><b>Historical Postcards Retrieval through Vision Foundation Models</b> - <em>Anis Amri, Salvatore Tabbone</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689471"> [ACM DL Link]</a></li>
-	<li><b>Scene Classification on Fine-arts with Style Transfer</b> - <em>Haiting Huang, Mathias Zinnen, Shumei Liu, Andreas Maier, Vincent Christlein</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689468"> [ACM DL Link]</a></li>
-	<li><b>4D Geo Modelling from Different Sources at Large Scale</b> - <em>Sander Muenster, Jonas Bruschke, Daniel Dworak, Dávid Komorowicz, Vaibhav Rajan, Dominik Ukolov</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689466"> [ACM DL Link]</a></li>
-	<li><b>Understanding User Engagement in Museum TikTok Videos by Exploring Multimodal Cues</b> - <em>Chek Zi Yan Jane, John See, Jessica Sze Yin Ho, Lau Pei Mey, Padma Pillai</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689467"> [ACM DL Link]</a></li>
-	<li><b>Hand Gesture Recognition in Buddhist Art Images: Evaluation of a Keypoint-based Approach</b> - <em>Li Weng</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689464"> [ACM DL Link]</a></li> -->
+<li> Oral
+<ul> 
+<li>Transparent Similarity Estimation of Medieval Pen Flourishing via Local Visual Patterns - Florian Kibler, Monica Apellaniz-Portos, Max Theisen, Victor Adriel de Jesus Oliveira, Martin Haltrich, Matthias Zeppelzauer, Markus Seidl</li>
+<li> Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project - Francisca Pessanha, Ian Padovani, Justus Klaveren, Heysem Kaya, Almila Akdag, Judith Masthoff</li>
+<li> Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca</li>
+<li> Improved Bag of Time Model with Feature Fusion - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu</li>
+<li> CineSearcher - A Multimodal Film Exploration Workspace - Tobias Kreten, Marta Kipke</li>
+<li> DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification - Tingyu Lin, Armin Dadras, Florian Kleber, Robert Sablatnig</li>
 </ul>
+
+<li> Poster
+<ul>
+<li> Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation - Salvatore Tabbone</li>
+<li> Rule-of-Thirds Detection with Interpretable Geometric Features - Armin Dadras, Tingyu Lin, Robert Sablatnig, Markus Seidl</li>
+<li> An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri</li>
+<li> Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto </li>
+</ul>
+</ul>
+
 </p>
 <br>
 

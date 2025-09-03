@@ -1,7 +1,5 @@
 - title: Home
   url: index.html
-- title: Accepted Papers
-  url: index.html#accepted_papers
 - title: Overview
   url: index.html#overview
 - title: CfP
@@ -10,6 +8,8 @@
   url: index.html#highlights
 - title: Speakers
   url: index.html#speakers
+- title: Accepted Papers
+  url: index.html#accepted_papers
 - title: Schedule
   url: index.html#schedule 
 - title: Program committee
@@ -22,4 +22,5 @@
 #   url: TBA
 #   # url: accepted_papers.html
 # - title: Poster session
+
 #   url: TBA

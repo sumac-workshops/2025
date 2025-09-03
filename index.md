@@ -146,19 +146,19 @@ IMP NOTES:
 <li> <b>Oral</b>
 <ul> 
 <li><i>Transparent Similarity Estimation of Medieval Pen Flourishing via Local Visual Patterns</i> - Florian Kibler, Monica Apellaniz-Portos, Max Theisen, Victor Adriel de Jesus Oliveira, Martin Haltrich, Matthias Zeppelzauer, Markus Seidl</li>
-<li> Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project - Francisca Pessanha, Ian Padovani, Justus Klaveren, Heysem Kaya, Almila Akdag, Judith Masthoff</li>
-<li> Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca</li>
-<li> Improved Bag of Time Model with Feature Fusion - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu</li>
-<li> CineSearcher - A Multimodal Film Exploration Workspace - Tobias Kreten, Marta Kipke</li>
-<li> DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification - Tingyu Lin, Armin Dadras, Florian Kleber, Robert Sablatnig</li>
+<li> <i>Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project</i> - Francisca Pessanha, Ian Padovani, Justus Klaveren, Heysem Kaya, Almila Akdag, Judith Masthoff</li>
+<li> <i>Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents</i> - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca</li>
+<li> <i>Improved Bag of Time Model with Feature Fusion</i> - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu</li>
+<li> <i>CineSearcher - A Multimodal Film Exploration Workspace</i> - Tobias Kreten, Marta Kipke</li>
+<li> <i>DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification</i> - Tingyu Lin, Armin Dadras, Florian Kleber, Robert Sablatnig</li>
 </ul>
 
 <li> <b>Poster</b>
 <ul>
-<li> Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation - Salvatore Tabbone</li>
-<li> Rule-of-Thirds Detection with Interpretable Geometric Features - Armin Dadras, Tingyu Lin, Robert Sablatnig, Markus Seidl</li>
-<li> An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri</li>
-<li> Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto </li>
+<li> <i>Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation</i> - Salvatore Tabbone</li>
+<li> <i>Rule-of-Thirds Detection with Interpretable Geometric Features</i> - Armin Dadras, Tingyu Lin, Robert Sablatnig, Markus Seidl</li>
+<li> <i>An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing</i> - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri</li>
+<li> <i>Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal</i> - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto </li>
 </ul>
 </ul>
 

@@ -43,6 +43,7 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
+	<li> <b>[04 August, 2025]</b> Notifications released!</li>
 	<li> <b>[21 July, 2025]</b> Important dates slightly modified, please check</li>
 	<li> <b>[11 July, 2025]</b> Short deadline extension! Up to 14 July UTC-0</li>
 	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2025/">Website Launched!</a></li>

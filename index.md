@@ -171,9 +171,9 @@ IMP NOTES:
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
-{% include schedule.html %} -->
-<img src="images/SUMAC25_schedule.png" width="70%">
-</p>
+{% include schedule.html %}
+</p> -->
+<img src="images/SUMAC25_schedule.png" width="80%">
 <br> <br>
 
 <!-- Technical Committee -->

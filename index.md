@@ -172,6 +172,7 @@ IMP NOTES:
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <!-- {% include schedule.html %} -->
+<img src="images/SUMAC25_schedule.pdf" width="600px">
 </p>
 <br> 
 

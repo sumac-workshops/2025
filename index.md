@@ -164,16 +164,16 @@ IMP NOTES:
 
 <!-- Schedule -->
 
-<!-- <h2 class="blackpar_title" id="schedule">Schedule (Melbourne local time, 28 Oct) </h2>
+<h2 class="blackpar_title" id="schedule">Schedule (Dublin local time, 27 October) </h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
-{% include schedule.html %}
+<!-- {% include schedule.html %} -->
 </p>
-<br> -->
+<br> 
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>

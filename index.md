@@ -172,9 +172,9 @@ IMP NOTES:
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include schedule.html %} -->
-<img src="images/SUMAC25_schedule.png" width="800px">
+<img src="images/SUMAC25_schedule.png" width="70%">
 </p>
-<br> 
+<br> <br>
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>

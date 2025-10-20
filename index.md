@@ -155,7 +155,7 @@ IMP NOTES:
 </ul>
 <li> <b>Poster</b>
 <ul>
-	<li> <i>Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation</i> - Salvatore Tabbone</li>
+	<li> <i>Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation</i> - Matthieu Pelingre and Salvatore Tabbone</li>
 	<li> <i>Rule-of-Thirds Detection with Interpretable Geometric Features</i> - Armin Dadras, Tingyu Lin, Robert Sablatnig, Markus Seidl</li>
 	<li> <i>An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing</i> - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri</li>
 	<li> <i>Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal</i> - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto </li>

@@ -43,7 +43,7 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
-	<li> <b>[23 Oct, 2025]</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">Zoom for online attendance</a></li>
+	<li> <b>[23 Oct, 2025]</b> Zoom for online attendance: it's <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></li>!
 	<li> <b>[6 Oct, 2025]</b> <a href="index.html#schedule">Schedule Announced!</a></li>
 	<li> <b>[04 August, 2025]</b> Notifications released!</li>
 	<li> <b>[21 July, 2025]</b> Important dates slightly modified, please check</li>
@@ -175,7 +175,7 @@ IMP NOTES:
 <p>
 {% include schedule.html %}
 </p> -->
-<p> Zoom for online attendance: <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p>
+<p> <b>Zoom for online attendance:</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p>
 <img src="images/SUMAC25_schedule.png" width="80%">
 <br> <br>
 

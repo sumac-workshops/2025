@@ -43,6 +43,7 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
+	<li> <b>[27 Oct, 2025]</b> Best paper award goes to "Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project" <a href="https://dl.acm.org/doi/10.1145/3746273.3760204"> (ACM DL Link)</a>, presented by <b>Francisca Pessanha</b>
 	<li> <b>[23 Oct, 2025]</b> Zoom for online attendance: it's <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a>!</li>
 	<li> <b>[6 Oct, 2025]</b> <a href="index.html#schedule">Schedule Announced!</a></li>
 	<li> <b>[04 August, 2025]</b> Notifications released!</li>

@@ -182,7 +182,10 @@ IMP NOTES:
 </ul>
 <li> <b>Poster</b></li>
 <ul>
-	<li> <i>Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation</i> - Matthieu Pelingre and Salvatore Tabbone</li>
+	<li> 
+		<i>Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation</i> - Matthieu Pelingre and Salvatore Tabbone
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760201" target="new">(proceedings)</a>
+	</li>
 	<li> 
 		<i>Rule-of-Thirds Detection with Interpretable Geometric Features</i> - Armin Dadras, Tingyu Lin, Robert Sablatnig, Markus Seidl
 		<a href="https://dl.acm.org/doi/10.1145/3746273.3760202" target="new">(proceedings)</a>

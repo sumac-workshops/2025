@@ -123,8 +123,6 @@ IMP NOTES:
 <p>
 {% include speakers.html %}
 </p>
-<br>
-
 
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
 <hr  style="color: rgb(212, 110, 0);">

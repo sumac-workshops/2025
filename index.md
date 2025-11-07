@@ -37,10 +37,9 @@ layout: home
 	<li><b>[26 May, 2025]</b> Keynote info updated.</li>
 </ul>
 </p>
-<br>
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p> The seventh version of the SUMAC (analySis, Understanding and proMotion of heritAge Contents) workshop, like its predecessors, focuses on analyzing, processing and valorizing all types of data related to cultural heritage, including tangible and intangible heritage. As stated by UNESCO, cultural heritage provides societies with a wealth of resources inherited from the past, created in the present for the benefit of future generations. </p>
 
 <p> Digital heritage data acquired are naturally massive and address a large diversity of monomodal modalities (text, structured referentials, image, video, 3D, music, sensor data). Their processing and promotion put into light several scientific challenges as well as various new use cases that are of topical interest today for the ACM Multimedia community, both for academics and industries. Like in the previous editions, we will strive to value the sharing of knowledge, algorithms and experiments; and also open source software and open data, by encouraging the submission of articles that promote this sharing policy. </p>
@@ -48,7 +47,7 @@ layout: home
 <br>
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p> The ambition of SUMAC is to bring together researchers and practitioners from different disciplines to share ideas and methods on current trends in the analysis, understanding and promotion of heritage contents. These challenges are reflected in the corresponding sub-fields of machine learning, signal processing, multi-modal techniques and human-machine interaction. We welcome research contributions for the following (but not limited to) topics: </p>
 
 <ul>
@@ -74,7 +73,7 @@ layout: home
 <br>
 
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <ul>
  	<li>Paper submission: <b><del>June 13</del> <del>July 11</del> July 14, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
 	<li>Author acceptance notification: <del>July 24</del> August 4, 2025</li>
@@ -84,7 +83,7 @@ layout: home
 <br>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted:
 <ul>
  <li> 4 pages plus 1-page reference (short paper);</li>
@@ -108,7 +107,7 @@ IMP NOTES:
 
 <!-- Special Highlights -->
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p> <b>Best Paper Award - </b>We will present a best paper award, accompanied with a certificate and a trophy, similar to previous editions. </p>
 
 <p> <b>This year, the best paper award goes to "Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project", presented by Francisca Pessanha</b>. </p>
@@ -119,13 +118,13 @@ IMP NOTES:
 
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p>
 {% include speakers.html %}
 </p>
 
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
 <li> <b>Keynotes</b></li>
@@ -201,7 +200,7 @@ IMP NOTES:
 <!-- Schedule -->
 
 <h2 class="blackpar_title" id="schedule">Schedule (Dublin local time, 27 October) </h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <!-- <p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
@@ -219,7 +218,7 @@ IMP NOTES:
 <br>
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p>
 {% include program_committee.html %}
 </p>
@@ -227,7 +226,7 @@ IMP NOTES:
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
-<hr  style="color: rgb(212, 110, 0);">
+<hr  style="color: rgb(92, 242, 117);">
 <p>
 {% include organizers.html %}
 </p>

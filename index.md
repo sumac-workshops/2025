@@ -170,7 +170,11 @@ IMP NOTES:
 		<a href="https://dl.acm.org/doi/10.1145/3746273.3760207" target="new">(proceedings)</a>
 		<a href="papers/slides/CineSearcher.pdf" target="new"> (presentation)</a>
 	</li>
-	<li> <i>DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification</i> - Tingyu Lin, Armin Dadras, Florian Kleber, Robert Sablatnig</li>
+	<li> 
+		<i>DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification</i> - Tingyu Lin, Armin Dadras, Florian Kleber, Robert Sablatnig
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760209" target="new">(proceedings)</a>
+		<a href="papers/slides/DGMET_Tingyu_LIN.pdf" target="new"> (presentation)</a>
+	</li>
 </ul>
 <li> <b>Poster</b></li>
 <ul>

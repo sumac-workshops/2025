@@ -180,7 +180,11 @@ IMP NOTES:
 		<a href="https://dl.acm.org/doi/10.1145/3746273.3760202" target="new">(proceedings)</a>
 		<a href="papers/slides/rot_detection_dadras.pdf" target="new"> (presentation)</a>
 	</li>
-	<li> <i>An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing</i> - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri</li>
+	<li> 
+		<i>An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing</i> - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760208" target="new">(proceedings)</a>
+		<a href="papers/slides/Amarilli_SUMAC_2025.pdf" target="new"> (presentation)</a>
+	</li>
 	<li> 
 		<i>Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal</i> - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto 
 		<a href="https://dl.acm.org/doi/10.1145/3746273.3760205" target="new">(proceedings)</a>

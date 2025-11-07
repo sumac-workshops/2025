@@ -156,7 +156,11 @@ IMP NOTES:
 		<a href="papers/slides/SUMAC_Francisca_Pessanha.pdf" target="new"> (presentation)</a>
 	</li> 
 	<li> <i>Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents</i> - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca</li>
-	<li> <i>Improved Bag of Time Model with Feature Fusion</i> - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu</li>
+	<li> 
+		<i>Improved Bag of Time Model with Feature Fusion</i> - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu
+		a href="https://dl.acm.org/doi/10.1145/3746273.3760207" target="new">(proceedings)</a>
+		<a href="papers/slides/Improved_ Li_Weng.pdf" target="new"> (presentation)</a>
+	</li>
 	<li> 
 		<i>CineSearcher - A Multimodal Film Exploration Workspace</i> - Tobias Kreten, Marta Kipke
 		<a href="https://dl.acm.org/doi/10.1145/3746273.3760207" target="new">(proceedings)</a>

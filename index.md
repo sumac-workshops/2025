@@ -155,10 +155,14 @@ IMP NOTES:
 		<a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new">(proceedings)</a>
 		<a href="papers/slides/SUMAC_Francisca_Pessanha.pdf" target="new"> (presentation)</a>
 	</li> 
-	<li> <i>Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents</i> - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca</li>
+	<li> 
+		<i>Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents</i> - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760200" target="new">(proceedings)</a>
+		<a href="papers/slides/PresentationSumac2025_Blettery_Static.pdf" target="new"> (presentation)</a>
+	</li>
 	<li> 
 		<i>Improved Bag of Time Model with Feature Fusion</i> - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu
-		a href="https://dl.acm.org/doi/10.1145/3746273.3760207" target="new">(proceedings)</a>
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760206" target="new">(proceedings)</a>
 		<a href="papers/slides/Improved_ Li_Weng.pdf" target="new"> (presentation)</a>
 	</li>
 	<li> 

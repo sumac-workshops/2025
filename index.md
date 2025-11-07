@@ -213,6 +213,7 @@ IMP NOTES:
 <center>
 	<img src="images/SUMAC25_schedule.png" width="80%">
 </center>
+<br> 
 
 <!-- D-Day -->
 
@@ -221,9 +222,8 @@ IMP NOTES:
 <center>
 	<img src="images/wall.png" width="80%">
 </center>
-<br> 
+<br> <br> 
 
-<br>
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <hr  style="color: rgb(92, 242, 117);">

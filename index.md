@@ -26,6 +26,7 @@ layout: home
 <ul>
 	<li> <b>[30 Oct, 2025]</b> The proceedings are online: <a href="https://dl.acm.org/doi/proceedings/10.1145/3746273" target="new">it's here</a> </li>
 	<li> <b>[27 Oct, 2025]</b> Best paper award goes to "Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project" <a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new"> (ACM DL Link)</a>, presented by <b>Francisca Pessanha</b>. Congratulations! </li>
+	<li> <b>[27 Oct, 2025] <a href="index.html#d-day">D-Day! What an amazing day that brought together our wonderful international community of multimedia heritage contents analysts in Dublin! </a></li>
 	<li> <b>[23 Oct, 2025]</b> Zoom for online attendance: it's <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a>!</li>
 	<li> <b>[06 Oct, 2025]</b> <a href="index.html#schedule">Schedule Announced!</a></li>
 	<li> <b>[04 Aug, 2025]</b> Notifications released!</li>
@@ -211,6 +212,13 @@ IMP NOTES:
 <p> <b>Zoom for online attendance:</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p>-->
 <center>
 	<img src="images/SUMAC25_schedule.png" width="80%">
+</center>
+
+<!-- D-Day -->
+
+<h2 class="blackpar_title" id="d-day">D-Day</h2>
+<hr  style="color: rgb(92, 242, 117);">
+<center>
 	<img src="images/wall.png" width="80%">
 </center>
 <br> 

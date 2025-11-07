@@ -177,7 +177,11 @@ IMP NOTES:
 	<li> <i>Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation</i> - Matthieu Pelingre and Salvatore Tabbone</li>
 	<li> <i>Rule-of-Thirds Detection with Interpretable Geometric Features</i> - Armin Dadras, Tingyu Lin, Robert Sablatnig, Markus Seidl</li>
 	<li> <i>An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing</i> - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri</li>
-	<li> <i>Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal</i> - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto </li>
+	<li> 
+		<i>Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal</i> - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto 
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760205" target="new">(proceedings)</a>
+		<a href="papers/slides/PresentationAna_Antunes_SUMAC_2025.pdf" target="new"> (presentation)</a>
+	</li>
 </ul>
 </ul>
 <br>

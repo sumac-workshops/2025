@@ -149,7 +149,11 @@ IMP NOTES:
 <ul>
 <li> <b>Oral</b></li>
 <ul> 
-	<li><i>Transparent Similarity Estimation of Medieval Pen Flourishing via Local Visual Patterns</i> - Florian Kibler, Monica Apellaniz-Portos, Max Theisen, Victor Adriel de Jesus Oliveira, Martin Haltrich, Matthias Zeppelzauer, Markus Seidl</li>
+	<li>
+		<i>Transparent Similarity Estimation of Medieval Pen Flourishing via Local Visual Patterns</i> - Florian Kibler, Monica Apellaniz-Portos, Max Theisen, Victor Adriel de Jesus Oliveira, Martin Haltrich, Matthias Zeppelzauer, Markus Seidl
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760203" target="new">(proceedings)</a>
+		<a href="papers/slides/kibler_transparent_similarity_estimation.pdf" target="new"> (presentation)</a>
+	</li>
 	<li> 
 		<i>Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project</i> - Francisca Pessanha, Ian Padovani, Justus Klaveren, Heysem Kaya, Almila Akdag, Judith Masthoff 
 		<a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new">(proceedings)</a>

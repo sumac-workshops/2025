@@ -143,7 +143,7 @@ IMP NOTES:
 <br>
 
 
-<h2 class="blackpar_title" id="accepted_papers">Keynotes & Accepted Papers</h2>
+<h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 <ul>
@@ -153,6 +153,10 @@ IMP NOTES:
 		<i>The analysis of cultural heritage in the age of Ar@ficial Intelligence</i> - Diego Jimenez-Badillo
 		<a href="https://dl.acm.org/doi/10.1145/3746273.3760211" target="new">(proceedings)</a>
 		<a href="papers/slides/PDF_Presentation_SUMAC-27-10-2025_Diego_Jimenez-Badillo.pdf" target="new"> (presentation)</a>
+	</li>
+	<li>
+		<i>New Narrative Visions for Cultural Heritage: Cultural Heritage Institutions as Custodians, Curators, and Co-creators</i> - Johan Oomen
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760210" target="new">(proceedings)</a>
 	</li>
 </ul> 
 <li> <b>Oral</b></li>

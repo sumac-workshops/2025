@@ -157,7 +157,11 @@ IMP NOTES:
 	</li> 
 	<li> <i>Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents</i> - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca</li>
 	<li> <i>Improved Bag of Time Model with Feature Fusion</i> - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu</li>
-	<li> <i>CineSearcher - A Multimodal Film Exploration Workspace</i> - Tobias Kreten, Marta Kipke</li>
+	<li> 
+		<i>CineSearcher - A Multimodal Film Exploration Workspace</i> - Tobias Kreten, Marta Kipke
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760207" target="new">(proceedings)</a>
+		<a href="papers/slides/CineSearcher.pdf" target="new"> (presentation)</a>
+	</li>
 	<li> <i>DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification</i> - Tingyu Lin, Armin Dadras, Florian Kleber, Robert Sablatnig</li>
 </ul>
 <li> <b>Poster</b></li>

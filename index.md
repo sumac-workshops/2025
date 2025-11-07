@@ -150,7 +150,11 @@ IMP NOTES:
 <li> <b>Oral</b></li>
 <ul> 
 	<li><i>Transparent Similarity Estimation of Medieval Pen Flourishing via Local Visual Patterns</i> - Florian Kibler, Monica Apellaniz-Portos, Max Theisen, Victor Adriel de Jesus Oliveira, Martin Haltrich, Matthias Zeppelzauer, Markus Seidl</li>
-	<li> <i>Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project</i> - Francisca Pessanha, Ian Padovani, Justus Klaveren, Heysem Kaya, Almila Akdag, Judith Masthoff</li>
+	<li> 
+		<i>Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project</i> - Francisca Pessanha, Ian Padovani, Justus Klaveren, Heysem Kaya, Almila Akdag, Judith Masthoff 
+		<a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new">(proceedings)</a>
+		<a href="papers/slides/SUMAC_Francisca_Pessanha.pdf" target="new"> (presentation)</a>
+	</li> 
 	<li> <i>Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents</i> - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca</li>
 	<li> <i>Improved Bag of Time Model with Feature Fusion</i> - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu</li>
 	<li> <i>CineSearcher - A Multimodal Film Exploration Workspace</i> - Tobias Kreten, Marta Kipke</li>

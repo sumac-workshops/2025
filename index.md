@@ -210,11 +210,14 @@ IMP NOTES:
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include schedule.html %}
-</p> -->
-<p> <b>Zoom for online attendance:</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p>
+</p> 
+<p> <b>Zoom for online attendance:</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p>-->
 <img src="images/SUMAC25_schedule.png" width="80%">
-<br> <br>
+<br> 
 
+
+
+<br>
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <hr  style="color: rgb(212, 110, 0);">

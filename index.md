@@ -73,7 +73,7 @@ layout: home
 </ul>
 <br>
 
-<h2 class="blackpar_title" id="imp_dates">Important dates (tentative)</h2>
+<h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
  	<li>Paper submission: <b><del>June 13</del> <del>July 11</del> July 14, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>

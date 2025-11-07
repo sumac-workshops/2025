@@ -19,30 +19,11 @@ layout: home
 </div>
 <br>
 
-
-<!--
-<p style="background-color:#8ef25c;"> <b> Best Paper Award </b> - <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em> - Laura Willot, Kévin Réby, Adeline Manuel, Dan Vodislav, Valerie Gouet-Brunet, Livio De Luca.
-<hr  style="color: rgb(92, 242, 117);">
--->
-
 <!-- News and Updates -->
 <h2 class="blackpar_title" id="news">News and Updates</h2>
 <hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
-<!-- 	<li> <b>[19 Dec, 2024]</b> Presentor Slides are now available. Links are provided at the end of the <a href="index.html#schedule">Talk Titles</a></li>
-	<li> <b>[06 Nov, 2024]</b> Best paper award goes to <em>"Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris" </em><a href="https://dl.acm.org/doi/10.1145/3689094.3689473"> [ACM DL Link]</a>, presented by <b>Laura Willot</b>
-	<li> <b>[22 Oct, 2024]</b> <a href="index.html#schedule">Schedule Announced</a></li>
-	<li> <b>[22 Oct, 2024]</b> <a href="index.html#accepted_papers">List of Accepted Papers with their links</a></li>
-	<li> <b>[20 Aug, 2024]</b> Workshop date announced: 28-Oct, 2024.</li>
-	<li> <b>[10 Aug, 2024]</b><a href="https://2024.acmmm.org/important-dates"> Camera-ready paper deadline and Author registration deadline is 22-August-2024.</a></li>
-	<li> <b>[10 Aug, 2024]</b><a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC"> The paper decisions are released on OpenReview.</a></li>
-	<li> <b>[16 July, 2024]</b> <a href="index.html#imp_dates">Deadline Extended to 12.59 PM, 24 July, 2024</a> <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></li>
-	<li> <b>[24 June, 2024]</b> <a href="index.html#speakers">Keynote Speakers Announced</a></li>
-	<li> <b>[24 June, 2024]</b> <a href="index.html#program_committee">Program Comittee Announced</a></li>
-	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
-	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
--->
 	<li> <b>[30 Oct, 2025]</b> The proceedings are online: <a href="https://dl.acm.org/doi/proceedings/10.1145/3746273" target="new">it's here</a> </li>
 	<li> <b>[27 Oct, 2025]</b> Best paper award goes to "Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project" <a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new"> (ACM DL Link)</a>, presented by <b>Francisca Pessanha</b>. Congratulations! </li>
 	<li> <b>[23 Oct, 2025]</b> Zoom for online attendance: it's <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a>!</li>
@@ -129,6 +110,8 @@ IMP NOTES:
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> <b>Best Paper Award - </b>We will present a best paper award, accompanied with a certificate and a trophy, similar to previous editions. </p>
+
+<p> This year, the best paper award goes to "Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project", presented by <b>Francisca Pessanha</b>. </p>
 
 <!-- <p> <b>Journal Special Issue - </b>Authors of the best papers from SUMAC 2023 will be invited to submit an extended and improved version for consideration for Special Issue on Cultural Heritage in the Springer journal Multimedia Tools and Applications.</p>
 -->

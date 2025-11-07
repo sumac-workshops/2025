@@ -28,7 +28,7 @@ layout: home
 	<li> <b>[27 Oct, 2025]</b> Best paper award goes to "Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project" <a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new"> (ACM DL Link)</a>, presented by <b>Francisca Pessanha</b>. Congratulations! </li>
 	<li> <b>[23 Oct, 2025]</b> Zoom for online attendance: it's <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a>!</li>
 	<li> <b>[6 Oct, 2025]</b> <a href="index.html#schedule">Schedule Announced!</a></li>
-	<li> <b>[04 August, 2025]</b> Notifications released!</li>
+	<li> <b>[4 August, 2025]</b> Notifications released!</li>
 	<li> <b>[21 July, 2025]</b> Important dates slightly modified, please check</li>
 	<li> <b>[11 July, 2025]</b> Short deadline extension! Up to 14 July UTC-0</li>
 	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2025/">Website Launched!</a></li>

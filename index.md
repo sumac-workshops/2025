@@ -111,7 +111,7 @@ IMP NOTES:
 <hr  style="color: rgb(212, 110, 0);">
 <p> <b>Best Paper Award - </b>We will present a best paper award, accompanied with a certificate and a trophy, similar to previous editions. </p>
 
-<p> This year, the best paper award goes to "Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project", presented by <b>Francisca Pessanha</b>. </p>
+<p> <b>This year, the best paper award goes to "Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project", presented by Francisca Pessanha</b>. </p>
 
 <!-- <p> <b>Journal Special Issue - </b>Authors of the best papers from SUMAC 2023 will be invited to submit an extended and improved version for consideration for Special Issue on Cultural Heritage in the Springer journal Multimedia Tools and Applications.</p>
 -->

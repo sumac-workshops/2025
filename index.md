@@ -210,11 +210,11 @@ IMP NOTES:
 {% include schedule.html %}
 </p> 
 <p> <b>Zoom for online attendance:</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p>-->
-<img src="images/SUMAC25_schedule.png" width="80%">
-<img src="images/wall.png" width="80%">
+<center>
+	<img src="images/SUMAC25_schedule.png" width="80%">
+	<img src="images/wall.png" width="80%">
+</center>
 <br> 
-
-
 
 <br>
 <!-- Technical Committee -->
